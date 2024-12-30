@@ -1,0 +1,3492 @@
+[
+  {
+    "relevance": 0,
+    "id": "37hwKWJ8aBfrhieAmC",
+    "title": "Patterson Hood, Drive-By Truckers, Lydia Loveless in Atlanta",
+    "description": "Sourced from predicthq.com",
+    "category": "concerts",
+    "labels": ["concert", "music"],
+    "rank": 40,
+    "local_rank": 60,
+    "phq_attendance": 304,
+    "entities": [],
+    "duration": 0,
+    "start": "2025-03-27T00:00:00Z",
+    "start_local": "2025-03-26T20:00:00",
+    "end": "2025-03-27T00:00:00Z",
+    "end_local": "2025-03-26T20:00:00",
+    "updated": "2024-11-24T03:51:36Z",
+    "first_seen": "2024-11-24T03:26:51Z",
+    "timezone": "America/New_York",
+    "location": [-84.41723, 33.78311]
+   
+    
+    
+   
+   
+  },
+  {
+    "relevance": 0,
+    "id": "3CHVoSaapJE5MQDd2N",
+    "title": "Historic Ghost Tour St. Cloud",
+    "description": "Sourced from predicthq.com",
+    "category": "performing-arts",
+    "labels": ["movie", "performing-arts"],
+    "rank": 0,
+    "local_rank": 0,
+    "phq_attendance": null,
+    "entities": [],
+    "duration": 0,
+    "start": "2025-03-27T00:00:00Z",
+    "start_local": "2025-03-26T20:00:00",
+    "end": "2025-03-27T00:00:00Z",
+    "end_local": "2025-03-26T20:00:00",
+    "updated": "2024-10-06T08:33:13Z",
+    "first_seen": "2024-10-06T03:43:59Z",
+    "timezone": "America/New_York",
+    "location": [-81.28214, 28.24947]
+   
+  },
+  {
+    "relevance": 0,
+    "id": "3G56EwwdVPmNun8RTu",
+    "title": "London International Eating Disorders Conference",
+    "description": "Sourced from predicthq.com",
+    "category": "conferences",
+    "labels": ["conference"],
+    "rank": 43,
+    "local_rank": 51,
+    "phq_attendance": 469,
+    "entities": [
+      {
+        "entity_id": "32zBxwspkrcRqNER7UrgBZc",
+        "name": "QEII Centre",
+        "type": "venue",
+        "formatted_address": "Broad Sanctuary, London SW1P 3EE, UK"
+      },
+      {
+        "entity_id": "ZJWYe7kmMdZBeNTczDdka5",
+        "name": "London International Eating Disorders Conference",
+        "type": "event-group",
+        "formatted_address": "Broad Sanctuary Westminster London SW1P 3EE",
+        "category": "conferences",
+        "labels": ["conference", "event-group"]
+      }
+    ],
+    "duration": 172799,
+    "start": "2025-03-27T00:00:00Z",
+    "start_local": "2025-03-27T00:00:00",
+    "end": "2025-03-28T23:59:59Z",
+    "end_local": "2025-03-28T23:59:59",
+    "updated": "2024-10-31T11:13:20Z",
+    "first_seen": "2024-03-01T01:02:32Z",
+    "timezone": "Europe/London",
+    "location": [-0.1290273, 51.5002221]
+    
+  },
+  {
+    "relevance": 0,
+    "id": "3S4ZPZadkBxZfSmXTF",
+    "title": "GVA DC: Exploring Language Immersion Education for Your Child",
+    "description": "Sourced from predicthq.com - Unlock your child's global potential at GVA's info night! Learn about language fluency, academic excellence, and more!",
+    "category": "conferences",
+    "labels": ["conference", "education", "family"],
+    "rank": 25,
+    "local_rank": 49,
+    "phq_attendance": 54,
+    "entities": [],
+    "duration": 3600,
+    "start": "2025-03-27T00:00:00Z",
+    "start_local": "2025-03-26T18:00:00",
+    "end": "2025-03-27T01:00:00Z",
+    "end_local": "2025-03-26T19:00:00",
+    "updated": "2024-09-16T03:04:55Z",
+    "first_seen": "2024-09-16T03:01:22Z",
+    "timezone": "America/Denver",
+    "location": [-104.77155649999997, 39.5404141]
+    
+  },
+  {
+    "relevance": 0,
+    "id": "3Tff9HWTuUvfcMMAyj",
+    "title": "Deftones with The Mars Volta and Fleshwater",
+    "alternate_titles": [
+      "Deftones - North American Tour 2025",
+      "Deftones at Bridgestone Arena"
+    ],
+    "description": "Sourced from predicthq.com",
+    "category": "concerts",
+    "labels": ["concert", "music"],
+    "rank": 70,
+    "local_rank": 92,
+    "phq_attendance": 9504,
+    "entities": [
+      {
+        "entity_id": "eW4Q5EHi5CE8jHurcGM9dZ",
+        "name": "Bridgestone Arena",
+        "type": "venue",
+        "formatted_address": "501 Broadway, Nashville, TN 37203, USA"
+      }
+    ],
+    "duration": 0,
+    "start": "2025-03-27T00:00:00Z",
+    "start_local": "2025-03-26T19:00:00",
+    "end": "2025-03-27T00:00:00Z",
+    "end_local": "2025-03-26T19:00:00",
+    "predicted_end": "2025-03-27T04:10:00Z",
+    "predicted_end_local": "2025-03-26T23:10:00",
+    "updated": "2024-12-27T18:29:18Z",
+    "first_seen": "2024-09-17T18:25:34Z",
+    "timezone": "America/Chicago",
+    "location": [-86.7784959, 36.1591736]
+    
+  },
+  {
+    "relevance": 0,
+    "id": "3jsoG7hEsRzQvLYPpL",
+    "title": "CCPA Faculty Composition Recital",
+    "description": "Sourced from predicthq.com - A night of original music featuring CCPA faculty members",
+    "category": "performing-arts",
+    "labels": ["concert", "music", "performing-arts"],
+    "rank": 31,
+    "local_rank": 38,
+    "phq_attendance": 113,
+    "entities": [],
+    "duration": 7200,
+    "start": "2025-03-27T00:00:00Z",
+    "start_local": "2025-03-26T19:00:00",
+    "end": "2025-03-27T02:00:00Z",
+    "end_local": "2025-03-26T21:00:00",
+    "updated": "2024-12-19T23:59:32Z",
+    "first_seen": "2024-12-19T23:59:16Z",
+    "timezone": "America/Chicago",
+    "location": [-87.6251806, 41.8760026]
+   
+  },
+  {
+    "relevance": 0,
+    "id": "3minydazwbqHKzDQos",
+    "title": "Glengarry Glen Ross",
+    "description": "Sourced from predicthq.com",
+    "category": "performing-arts",
+    "labels": ["entertainment", "performing-arts"],
+    "rank": 47,
+    "local_rank": 49,
+    "phq_attendance": 743,
+    "entities": [
+      {
+        "entity_id": "hzZXCwapC9A2VCQLQQhisR",
+        "name": "Palace Theatre",
+        "type": "venue",
+        "formatted_address": "1564 7th Ave\nNew York, NY 10036\nUnited States of America"
+      }
+    ],
+    "duration": 0,
+    "start": "2025-03-27T00:00:00Z",
+    "start_local": "2025-03-26T20:00:00",
+    "end": "2025-03-27T00:00:00Z",
+    "end_local": "2025-03-26T20:00:00",
+    "predicted_end": "2025-03-27T02:10:00Z",
+    "predicted_end_local": "2025-03-26T22:10:00",
+    "updated": "2024-12-18T00:26:41Z",
+    "first_seen": "2024-12-18T00:14:49Z",
+    "timezone": "America/New_York",
+    "location": [-73.9845232, 40.7588483]
+    
+  },
+  {
+    "relevance": 0,
+    "id": "3nTXtGWLkLqTeR8q9n",
+    "title": "Zillah School District - Spring Break",
+    "description": "Sourced from predicthq.com",
+    "category": "school-holidays",
+    "labels": ["holiday", "school", "spring-holiday"],
+    "rank": 52,
+    "local_rank": 93,
+    "phq_attendance": 1203,
+    "entities": [],
+    "duration": 950399,
+    "start": "2025-03-27T00:00:00Z",
+    "start_local": "2025-03-27T00:00:00",
+    "end": "2025-04-06T23:59:59Z",
+    "end_local": "2025-04-06T23:59:59",
+    "updated": "2024-08-07T11:23:05Z",
+    "first_seen": "2024-05-21T13:43:09Z",
+    "timezone": null,
+    "location": [-120.2342720341, 46.4497908342]
+    
+  },
+  {
+    "relevance": 0,
+    "id": "3npGyZqv8wggU3qDNV",
+    "title": "The Last Five Years",
+    "description": "Sourced from predicthq.com",
+    "category": "performing-arts",
+    "labels": ["entertainment", "performing-arts"],
+    "rank": 0,
+    "local_rank": 0,
+    "phq_attendance": null,
+    "entities": [
+      {
+        "entity_id": "KQhi2A7LfprNWEdNjbFC4D",
+        "name": "Hudson Theatre",
+        "type": "venue",
+        "formatted_address": "141 W 44th St, New York, NY 10036, USA"
+      }
+    ],
+    "duration": 0,
+    "start": "2025-03-27T00:00:00Z",
+    "start_local": "2025-03-26T20:00:00",
+    "end": "2025-03-27T00:00:00Z",
+    "end_local": "2025-03-26T20:00:00",
+    "predicted_end": "2025-03-27T01:50:00Z",
+    "predicted_end_local": "2025-03-26T21:50:00",
+    "updated": "2024-12-11T15:38:13Z",
+    "first_seen": "2024-12-04T01:57:00Z",
+    "timezone": "America/New_York",
+    "location": [-73.9847305, 40.756819]
+    
+  },
+  {
+    "relevance": 0,
+    "id": "485mtTfpCsKGRVQgop",
+    "title": "Humansville School District - Spring Break",
+    "description": "Sourced from predicthq.com",
+    "category": "school-holidays",
+    "labels": ["holiday", "school", "spring-holiday"],
+    "rank": 44,
+    "local_rank": 59,
+    "phq_attendance": 497,
+    "entities": [],
+    "duration": 431999,
+    "start": "2025-03-27T00:00:00Z",
+    "start_local": "2025-03-27T00:00:00",
+    "end": "2025-03-31T23:59:59Z",
+    "end_local": "2025-03-31T23:59:59",
+    "updated": "2024-07-25T01:03:34Z",
+    "first_seen": "2024-04-30T14:52:33Z",
+    "timezone": null,
+    "location": [-93.5587219002, 37.7760981588]
+    
+  },
+  {
+    "relevance": 0,
+    "id": "4AQvMnX7V5PjmqNRqK",
+    "title": "Micah Kesselring",
+    "description": "Sourced from predicthq.com",
+    "category": "concerts",
+    "labels": ["concert", "music"],
+    "rank": 32,
+    "local_rank": 60,
+    "phq_attendance": 123,
+    "entities": [
+      {
+        "entity_id": "dKsLVZ3M35RYsZPTssU5JS",
+        "name": "Avon Lake Public Library",
+        "type": "venue",
+        "formatted_address": "32649 Electric Blvd, Avon Lake, OH 44012, USA"
+      }
+    ],
+    "duration": 0,
+    "start": "2025-03-27T00:00:00Z",
+    "start_local": "2025-03-26T20:00:00",
+    "end": "2025-03-27T00:00:00Z",
+    "end_local": "2025-03-26T20:00:00",
+    "predicted_end": "2025-03-27T04:10:00Z",
+    "predicted_end_local": "2025-03-27T00:10:00",
+    "updated": "2024-11-03T02:09:39Z",
+    "first_seen": "2024-11-03T01:53:55Z",
+    "timezone": "America/New_York",
+    "location": [-82.01287, 41.5098]
+    
+  },
+  {
+    "relevance": 0,
+    "id": "4DbWkx34Pi2Mf2MPWe",
+    "title": "Seoul International Sports & Leisure Industry Show",
+    "alternate_titles": ["SPOEX"],
+    "description": "Sourced from predicthq.com",
+    "category": "expos",
+    "labels": ["expo"],
+    "rank": 80,
+    "local_rank": 86,
+    "phq_attendance": 32000,
+    "entities": [
+      {
+        "entity_id": "UdKWdNeXEmBr5EiK79nhiu",
+        "name": "COEX Convention Center",
+        "type": "venue",
+        "formatted_address": "513 Yeongdong-daero Samseong 1(il)-dong Gangnam-gu Seoul\nKorea, Republic of"
+      },
+      {
+        "entity_id": "EQfmZ7SeXptfB3pBUnj75e",
+        "name": "SPOEX - Seoul International Sports & Leisure Industry Show",
+        "type": "event-group",
+        "category": "expos",
+        "labels": ["event-group", "health", "sport"]
+      }
+    ],
+    "duration": 291600,
+    "start": "2025-03-27T00:00:00Z",
+    "start_local": "2025-03-27T09:00:00",
+    "end": "2025-03-30T09:00:00Z",
+    "end_local": "2025-03-30T18:00:00",
+    "updated": "2024-12-05T20:31:06Z",
+    "first_seen": "2024-12-05T03:45:42Z",
+    "timezone": "Asia/Seoul",
+    "location": [127.058644, 37.513062]
+   
+  },
+  {
+    "relevance": 0,
+    "id": "4NErdCiN2gW9pPzruK",
+    "title": "Connor Price with GRAHAM",
+    "alternate_titles": ["Connor Price at Fillmore Charlotte"],
+    "description": "Sourced from predicthq.com",
+    "category": "concerts",
+    "labels": ["concert", "music"],
+    "rank": 53,
+    "local_rank": 74,
+    "phq_attendance": 1339,
+    "entities": [
+      {
+        "entity_id": "Xf9AqpsSwT7pDfdBPYFxJ3",
+        "name": "The Fillmore Charlotte",
+        "type": "venue",
+        "formatted_address": "820 Hamilton St, Charlotte, NC 28206, USA"
+      }
+    ],
+    "duration": 0,
+    "start": "2025-03-27T00:00:00Z",
+    "start_local": "2025-03-26T20:00:00",
+    "end": "2025-03-27T00:00:00Z",
+    "end_local": "2025-03-26T20:00:00",
+    "predicted_end": "2025-03-27T04:30:00Z",
+    "predicted_end_local": "2025-03-27T00:30:00",
+    "updated": "2024-12-27T12:13:02Z",
+    "first_seen": "2024-12-03T00:15:20Z",
+    "timezone": "America/New_York",
+    "location": [-80.8452815, 35.239898]
+   
+  },
+  {
+    "relevance": 0,
+    "id": "4QaMg79E4aDgphNqCX",
+    "title": "Grand Ole Opry",
+    "description": "Sourced from predicthq.com",
+    "category": "concerts",
+    "labels": ["concert", "music"],
+    "rank": 58,
+    "local_rank": 87,
+    "phq_attendance": 2525,
+    "entities": [
+      {
+        "entity_id": "swre8Es2JsmthQDUKxALuR",
+        "name": "Grand Ole Opry House",
+        "type": "venue",
+        "formatted_address": "2804 Opryland Dr, Nashville, TN 37214, USA"
+      }
+    ],
+    "duration": 0,
+    "start": "2025-03-27T00:00:00Z",
+    "start_local": "2025-03-26T19:00:00",
+    "end": "2025-03-27T00:00:00Z",
+    "end_local": "2025-03-26T19:00:00",
+    "predicted_end": "2025-03-27T03:10:00Z",
+    "predicted_end_local": "2025-03-26T22:10:00",
+    "updated": "2024-12-26T06:16:49Z",
+    "first_seen": "2024-10-17T12:36:40Z",
+    "timezone": "America/Chicago",
+    "location": [-86.6921085, 36.2068571]
+   
+  },
+  {
+    "relevance": 0,
+    "id": "4TFuiBEGAzcf4DtD89",
+    "title": "Colonial School District - March Break",
+    "description": "Sourced from predicthq.com",
+    "category": "school-holidays",
+    "labels": ["holiday", "school"],
+    "rank": 73,
+    "local_rank": 59,
+    "phq_attendance": 14178,
+    "entities": [],
+    "duration": 345599,
+    "start": "2025-03-27T00:00:00Z",
+    "start_local": "2025-03-27T00:00:00",
+    "end": "2025-03-30T23:59:59Z",
+    "end_local": "2025-03-30T23:59:59",
+    "updated": "2024-07-25T00:53:14Z",
+    "first_seen": "2024-04-02T13:36:05Z",
+    "timezone": null,
+    "location": [-75.6152613035, 39.6166436505]
+  
+  },
+  {
+    "relevance": 0,
+    "id": "4WAD7jejL4HihNG3L5",
+    "title": "Rodney Crowell @ Tobin Center for the Performing Arts in San Antonio",
+    "alternate_titles": ["Nitty Gritty Dirt Band"],
+    "description": "Sourced from predicthq.com",
+    "category": "concerts",
+    "labels": ["concert", "music"],
+    "rank": 49,
+    "local_rank": 70,
+    "phq_attendance": 852,
+    "entities": [
+      {
+        "entity_id": "pwLBmTmaS6GAazkfJZYxK5",
+        "name": "Tobin Center for the Performing Arts",
+        "type": "venue",
+        "formatted_address": "100 Auditorium Cir, San Antonio, TX 78205, USA"
+      }
+    ],
+    "duration": 14400,
+    "start": "2025-03-27T00:00:00Z",
+    "start_local": "2025-03-26T19:00:00",
+    "end": "2025-03-27T04:00:00Z",
+    "end_local": "2025-03-26T23:00:00",
+    "updated": "2024-11-24T01:34:18Z",
+    "first_seen": "2024-11-17T04:37:24Z",
+    "timezone": "America/Chicago",
+    "location": [-98.488751, 29.430541]
+   
+  },
+  {
+    "relevance": 0,
+    "id": "4bbFoBVyK6XbhrXtEc",
+    "title": "Richy Mitch and The Coal Miners with Briscoe",
+    "description": "Sourced from predicthq.com",
+    "category": "concerts",
+    "labels": ["concert", "music"],
+    "rank": 51,
+    "local_rank": 52,
+    "phq_attendance": 1091,
+    "entities": [
+      {
+        "entity_id": "3BVWFFPzLGsfDahwimQBvZf",
+        "name": "Marquis Theatre",
+        "type": "venue",
+        "formatted_address": "210 West 46th Street\nNew York, NY 10036\nUnited States of America"
+      }
+    ],
+    "duration": 0,
+    "start": "2025-03-27T00:00:00Z",
+    "start_local": "2025-03-26T20:00:00",
+    "end": "2025-03-27T00:00:00Z",
+    "end_local": "2025-03-26T20:00:00",
+    "predicted_end": "2025-03-27T04:10:00Z",
+    "predicted_end_local": "2025-03-27T00:10:00",
+    "updated": "2024-12-27T18:27:23Z",
+    "first_seen": "2024-12-09T18:15:33Z",
+    "timezone": "America/New_York",
+    "location": [-73.9863363, 40.7589446]
+   
+  },
+  {
+    "relevance": 0,
+    "id": "4czbuM24B64eXCDu7t",
+    "title": "Global Congress on Cardiology",
+    "alternate_titles": [
+      "BDNS",
+      "GCC",
+      "World Brain Disorders and Neuroscience Summit"
+    ],
+    "description": "Sourced from predicthq.com",
+    "category": "conferences",
+    "labels": ["conference"],
+    "rank": 30,
+    "local_rank": 43,
+    "phq_attendance": 100,
+    "entities": [
+      {
+        "entity_id": "32dsKnFCEieduQTEVXcnG2v",
+        "name": "\"Hyatt Regency Kyoto\"",
+        "type": "venue",
+        "formatted_address": "644-2 Sanjūsangendōmawari, Higashiyama Ward, Kyoto, 605-0941, Japan"
+      }
+    ],
+    "duration": 205200,
+    "start": "2025-03-27T00:00:00Z",
+    "start_local": "2025-03-27T09:00:00",
+    "end": "2025-03-29T09:00:00Z",
+    "end_local": "2025-03-29T18:00:00",
+    "updated": "2024-09-03T23:00:18Z",
+    "first_seen": "2024-06-04T14:05:43Z",
+    "timezone": "Asia/Tokyo",
+    "location": [135.773472, 34.988585]
+   
+  },
+  {
+    "relevance": 0,
+    "id": "4hsSMqN4jRfZA8fqYi",
+    "title": "Of Montreal with cumgirl8",
+    "alternate_titles": [
+      "Of Montreal at District Music Hall",
+      "of Montreal and Cumgirl8",
+      "of Montreal in Norwalk"
+    ],
+    "description": "Sourced from predicthq.com",
+    "category": "concerts",
+    "labels": ["concert", "music"],
+    "rank": 47,
+    "local_rank": 67,
+    "phq_attendance": 679,
+    "entities": [
+      {
+        "entity_id": "S8L9K26jxHQCZtyKivv3jq",
+        "name": "District Music Hall",
+        "type": "venue",
+        "formatted_address": "71 Wall Street, Norwalk, CT 06850, USA"
+      }
+    ],
+    "duration": 0,
+    "start": "2025-03-27T00:00:00Z",
+    "start_local": "2025-03-26T20:00:00",
+    "end": "2025-03-27T00:00:00Z",
+    "end_local": "2025-03-26T20:00:00",
+    "predicted_end": "2025-03-27T04:10:00Z",
+    "predicted_end_local": "2025-03-27T00:10:00",
+    "updated": "2024-12-27T18:29:18Z",
+    "first_seen": "2024-12-04T18:18:23Z",
+    "timezone": "America/New_York",
+    "location": [-73.4140074, 41.1169647]
+   
+  },
+  {
+    "relevance": 0,
+    "id": "4pudWrEYKFK4ZTRgPq",
+    "title": "PWHL - Minnesota vs Montreal",
+    "alternate_titles": [
+      "Minnesota Frost v Montreal Victoire",
+      "Montreal Victoire vs Minnesota Frost"
+    ],
+    "description": "Sourced from predicthq.com",
+    "category": "sports",
+    "labels": ["ice-hockey", "sport"],
+    "rank": 70,
+    "local_rank": 88,
+    "phq_attendance": 9537,
+    "entities": [
+      {
+        "entity_id": "gQDULscKsPxTq5hEECEN9k",
+        "name": "Xcel Energy Center",
+        "type": "venue",
+        "formatted_address": "199 W Kellogg Blvd, St Paul, MN 55102, USA"
+      }
+    ],
+    "duration": 0,
+    "start": "2025-03-27T00:00:00Z",
+    "start_local": "2025-03-26T19:00:00",
+    "end": "2025-03-27T00:00:00Z",
+    "end_local": "2025-03-26T19:00:00",
+    "predicted_end": "2025-03-27T02:15:00Z",
+    "predicted_end_local": "2025-03-26T21:15:00",
+    "updated": "2024-12-25T18:23:19Z",
+    "first_seen": "2024-10-16T17:10:44Z",
+    "timezone": "America/Chicago",
+    "location": [-93.1007264, 44.9448954]
+   },
+  {
+    "relevance": 0,
+    "id": "4tgPy2t8nn5cNZ6oqT",
+    "title": "Vanities: The Musical",
+    "description": "Sourced from predicthq.com",
+    "category": "performing-arts",
+    "labels": [
+      "entertainment",
+      "music",
+      "performing-arts"
+    ],
+    "rank": 58,
+    "local_rank": 80,
+    "phq_attendance": 2416,
+    "entities": [
+      {
+        "entity_id": "WvTjncKkiDAky3vARdnDi9",
+        "name": "Meadow Brook Theatre",
+        "type": "venue",
+        "formatted_address": "378 Meadow Brook Rd, Auburn Hills, MI 48309, United States of America"
+      }
+    ],
+    "duration": 0,
+    "start": "2025-03-27T00:00:00Z",
+    "start_local": "2025-03-26T20:00:00",
+    "end": "2025-03-27T00:00:00Z",
+    "end_local": "2025-03-26T20:00:00",
+    "predicted_end": "2025-03-27T01:50:00Z",
+    "predicted_end_local": "2025-03-26T21:50:00",
+    "updated": "2024-10-31T04:52:29Z",
+    "first_seen": "2024-08-20T00:33:31Z",
+    "timezone": "America/Detroit",
+    "location": [
+      -83.2178905,
+      42.67608980000001
+    ]
+   
+  },
+  {
+    "relevance": 0,
+    "id": "4ttf4FqWNtx82ov3RG",
+    "title": "The Magnetic Fields",
+    "description": "Sourced from predicthq.com",
+    "category": "concerts",
+    "labels": [
+      "concert",
+      "music"
+    ],
+    "rank": 51,
+    "local_rank": 59,
+    "phq_attendance": 1168,
+    "entities": [
+      {
+        "entity_id": "nXEhPjJt3hfeErJvpGVPHk",
+        "name": "Queen Elizabeth Theatre",
+        "type": "venue",
+        "formatted_address": "190 Princes' Blvd, Toronto, ON M6K 3C3, Canada"
+      },
+      {
+        "entity_id": "AnVG-y4aH7C5Dn5Cmmbq0Q",
+        "name": "The Magnetic Fields at Queen Elizabeth Theatre",
+        "type": "event-group",
+        "category": "concerts",
+        "labels": [
+          "concert",
+          "residency"
+        ]
+      }
+    ],
+    "duration": 0,
+    "start": "2025-03-27T00:00:00Z",
+    "start_local": "2025-03-26T20:00:00",
+    "end": "2025-03-27T00:00:00Z",
+    "end_local": "2025-03-26T20:00:00",
+    "predicted_end": "2025-03-27T04:10:00Z",
+    "predicted_end_local": "2025-03-27T00:10:00",
+    "updated": "2024-12-27T18:25:02Z",
+    "first_seen": "2024-11-25T19:10:52Z",
+    "timezone": "America/Toronto",
+    "location": [
+      -79.4213438,
+      43.6327076
+    ]
+   
+  },
+  {
+    "relevance": 0,
+    "id": "4vPRNnorhQetS4vvsE",
+    "title": "Stephen Sondheim's Old Friends",
+    "description": "Sourced from predicthq.com",
+    "category": "performing-arts",
+    "labels": [
+      "entertainment",
+      "music",
+      "performing-arts"
+    ],
+    "rank": 0,
+    "local_rank": 0,
+    "phq_attendance": null,
+    "entities": [],
+    "duration": 0,
+    "start": "2025-03-27T00:00:00Z",
+    "start_local": "2025-03-26T20:00:00",
+    "end": "2025-03-27T00:00:00Z",
+    "end_local": "2025-03-26T20:00:00",
+    "predicted_end": "2025-03-27T01:50:00Z",
+    "predicted_end_local": "2025-03-26T21:50:00",
+    "updated": "2024-12-21T01:12:48Z",
+    "first_seen": "2024-12-19T01:05:10Z",
+    "timezone": "America/New_York",
+    "location": [
+      -73.9868281,
+      40.7602556
+    ]
+   
+  },
+  {
+    "relevance": 0,
+    "id": "4wk99PVR7WqZTRPKku",
+    "title": "Moulin Rouge",
+    "description": "Sourced from predicthq.com",
+    "category": "performing-arts",
+    "labels": [
+      "entertainment",
+      "music",
+      "performing-arts"
+    ],
+    "rank": 43,
+    "local_rank": 45,
+    "phq_attendance": 451,
+    "entities": [
+      {
+        "entity_id": "Ujre8wywtiFMwRkUmwbfsE",
+        "name": "Al Hirschfeld Theatre",
+        "type": "venue",
+        "formatted_address": "302 W 45th St, New York, NY 10036, USA"
+      }
+    ],
+    "duration": 0,
+    "start": "2025-03-27T00:00:00Z",
+    "start_local": "2025-03-26T20:00:00",
+    "end": "2025-03-27T00:00:00Z",
+    "end_local": "2025-03-26T20:00:00",
+    "predicted_end": "2025-03-27T01:50:00Z",
+    "predicted_end_local": "2025-03-26T21:50:00",
+    "updated": "2024-12-12T01:46:40Z",
+    "first_seen": "2024-12-12T00:33:19Z",
+    "timezone": "America/New_York",
+    "location": [
+      -73.989201,
+      40.759261
+    ]
+    
+  },
+  {
+    "relevance": 0,
+    "id": "52Y6aM9Ub8KDAJSBT4",
+    "title": "Luke Kidgell at City Winery Atlanta",
+    "description": "Sourced from predicthq.com",
+    "category": "performing-arts",
+    "labels": [
+      "comedy",
+      "entertainment",
+      "performing-arts"
+    ],
+    "rank": 35,
+    "local_rank": 59,
+    "phq_attendance": 172,
+    "entities": [
+      {
+        "entity_id": "4ifzZFQKDVBNHrYDgxSSs6",
+        "name": "City Winery - Atlanta",
+        "type": "venue",
+        "formatted_address": "650 North Avenue, Atlanta, 30308, United States of America"
+      }
+    ],
+    "duration": 0,
+    "start": "2025-03-27T00:00:00Z",
+    "start_local": "2025-03-26T20:00:00",
+    "end": "2025-03-27T00:00:00Z",
+    "end_local": "2025-03-26T20:00:00",
+    "predicted_end": "2025-03-27T01:50:00Z",
+    "predicted_end_local": "2025-03-26T21:50:00",
+    "updated": "2024-12-24T05:29:59Z",
+    "first_seen": "2024-10-22T05:40:40Z",
+    "timezone": "America/New_York",
+    "location": [
+      -84.4107,
+      33.6651
+    ]
+    
+  },
+  {
+    "relevance": 0,
+    "id": "5EtDnhbdaGoMPxqGGC",
+    "title": "Mankato Area Public Schools - Spring Break",
+    "description": "Sourced from predicthq.com",
+    "category": "school-holidays",
+    "labels": [
+      "holiday",
+      "school",
+      "spring-holiday"
+    ],
+    "rank": 70,
+    "local_rank": 52,
+    "phq_attendance": 10087,
+    "entities": [],
+    "duration": 431999,
+    "start": "2025-03-27T00:00:00Z",
+    "start_local": "2025-03-27T00:00:00",
+    "end": "2025-03-31T23:59:59Z",
+    "end_local": "2025-03-31T23:59:59",
+    "updated": "2024-08-07T21:09:11Z",
+    "first_seen": "2024-03-19T13:21:33Z",
+    "timezone": null,
+    "location": [
+      -93.9778539611,
+      44.1846410804
+    ]
+   
+  },
+  {
+    "relevance": 0,
+    "id": "5HyM92TBNbXHbf4qW7",
+    "title": "An Evening with Patrick Hinds: Laughs, Drinks, & Drama",
+    "description": "Sourced from predicthq.com",
+    "category": "performing-arts",
+    "labels": [
+      "comedy",
+      "entertainment",
+      "performing-arts"
+    ],
+    "rank": 0,
+    "local_rank": 0,
+    "phq_attendance": null,
+    "entities": [
+      {
+        "entity_id": "qbGQw43NzUrAhQJkddGJKH",
+        "name": "The Cabaret Room at Uptown Theater",
+        "type": "venue",
+        "formatted_address": "3700 Broadway Blvd, Kansas City, MO 64111, USA"
+      }
+    ],
+    "duration": 0,
+    "start": "2025-03-27T00:00:00Z",
+    "start_local": "2025-03-26T19:00:00",
+    "end": "2025-03-27T00:00:00Z",
+    "end_local": "2025-03-26T19:00:00",
+    "predicted_end": "2025-03-27T02:10:00Z",
+    "predicted_end_local": "2025-03-26T21:10:00",
+    "updated": "2024-12-10T13:09:10Z",
+    "first_seen": "2024-11-23T00:25:40Z",
+    "timezone": "America/Chicago",
+    "location": [
+      -94.5907287,
+      39.0609903
+    ]
+   
+  },
+  {
+    "relevance": 0,
+    "id": "5KL6HoCozxoJea2FEr",
+    "title": "Leylatoul Qadr",
+    "description": "Sourced from predicthq.com - Laylat al-Qadr commmemorates the time when Mohammad received the first verses of the Koran (Qu'ran).",
+    "category": "observances",
+    "labels": [
+      "holiday",
+      "observance"
+    ],
+    "rank": 60,
+    "local_rank": 60,
+    "phq_attendance": null,
+    "entities": [
+      {
+        "entity_id": "6bBMmG25nEwf9kYpsTCGZi",
+        "name": "Leylatoul Qadr",
+        "type": "event-group",
+        "category": "observances",
+        "labels": [
+          "event-group",
+          "holiday",
+          "observance",
+          "recurring"
+        ],
+        "description": "Laylat al-Qadr commmemorates the time when Mohammad received the first verses of the Koran (Qu'ran)."
+      }
+    ],
+    "duration": 86399,
+    "start": "2025-03-27T00:00:00Z",
+    "start_local": "2025-03-27T00:00:00",
+    "end": "2025-03-27T23:59:59Z",
+    "end_local": "2025-03-27T23:59:59",
+    "updated": "2024-12-11T13:10:12Z",
+    "first_seen": "2022-06-15T00:06:32Z",
+    "timezone": null,
+    "location": [
+      -3.996166,
+      17.570692
+    ]
+   
+  },
+  {
+    "relevance": 0,
+    "id": "5Nc253MJEEWQaWMfcp",
+    "title": "Carrollton Exempted Village School District - Spring Break",
+    "description": "Sourced from predicthq.com",
+    "category": "school-holidays",
+    "labels": [
+      "holiday",
+      "school",
+      "spring-holiday"
+    ],
+    "rank": 58,
+    "local_rank": 59,
+    "phq_attendance": 2506,
+    "entities": [],
+    "duration": 431999,
+    "start": "2025-03-27T00:00:00Z",
+    "start_local": "2025-03-27T00:00:00",
+    "end": "2025-03-31T23:59:59Z",
+    "end_local": "2025-03-31T23:59:59",
+    "updated": "2024-08-08T01:39:11Z",
+    "first_seen": "2024-04-02T14:21:52Z",
+    "timezone": null,
+    "location": [
+      -81.0491176835,
+      40.5710271122
+    ]
+   
+  },
+  {
+    "relevance": 0,
+    "id": "5NdaSBPuVLuipcfcvt",
+    "title": "Waitress",
+    "description": "Sourced from predicthq.com",
+    "category": "performing-arts",
+    "labels": [
+      "entertainment",
+      "music",
+      "performing-arts"
+    ],
+    "rank": 52,
+    "local_rank": 67,
+    "phq_attendance": 1213,
+    "entities": [
+      {
+        "entity_id": "3nbUzYacpyMCc9jGVWaBbx",
+        "name": "Paramount Theatre",
+        "type": "venue",
+        "formatted_address": "23 E Galena Blvd, Aurora, IL 60506, USA"
+      }
+    ],
+    "duration": 0,
+    "start": "2025-03-27T00:00:00Z",
+    "start_local": "2025-03-26T19:00:00",
+    "end": "2025-03-27T00:00:00Z",
+    "end_local": "2025-03-26T19:00:00",
+    "predicted_end": "2025-03-27T02:10:00Z",
+    "predicted_end_local": "2025-03-26T21:10:00",
+    "updated": "2024-12-20T00:33:17Z",
+    "first_seen": "2024-06-20T01:19:55Z",
+    "timezone": "America/Chicago",
+    "location": [
+      -88.3147583,
+      41.7575119
+    ]
+   
+  },
+  {
+    "relevance": 0,
+    "id": "5YUgVVMp3SfhaGUxC9",
+    "title": "International Conference on Hadron Spectroscopy and Structure",
+    "description": "Sourced from predicthq.com",
+    "category": "conferences",
+    "labels": [
+      "conference"
+    ],
+    "rank": 30,
+    "local_rank": 40,
+    "phq_attendance": 100,
+    "entities": [],
+    "duration": 378000,
+    "start": "2025-03-27T00:00:00Z",
+    "start_local": "2025-03-27T09:00:00",
+    "end": "2025-03-31T09:00:00Z",
+    "end_local": "2025-03-31T18:00:00",
+    "updated": "2024-06-04T11:46:42Z",
+    "first_seen": "2024-06-04T11:30:20Z",
+    "timezone": "Asia/Tokyo",
+    "location": [
+      135.454158,
+      34.806036
+    ]
+  
+  },
+  {
+    "relevance": 0,
+    "id": "5bjXxDYW2od48QCTkS",
+    "title": "North Franklin School District - Spring Break",
+    "description": "Sourced from predicthq.com",
+    "category": "school-holidays",
+    "labels": [
+      "holiday",
+      "school",
+      "spring-holiday"
+    ],
+    "rank": 57,
+    "local_rank": 80,
+    "phq_attendance": 2211,
+    "entities": [],
+    "duration": 1036799,
+    "start": "2025-03-27T00:00:00Z",
+    "start_local": "2025-03-27T00:00:00",
+    "end": "2025-04-07T23:59:59Z",
+    "end_local": "2025-04-07T23:59:59",
+    "updated": "2024-08-07T23:48:20Z",
+    "first_seen": "2024-05-21T13:44:29Z",
+    "timezone": null,
+    "location": [
+      -118.9821324831,
+      46.6001635433
+    ]
+   
+  },
+  {
+    "relevance": 0,
+    "id": "5gsqeAULNWNLmNDWaE",
+    "title": "Will Whalen",
+    "description": "Sourced from predicthq.com",
+    "category": "community",
+    "labels": [
+      "concert",
+      "music"
+    ],
+    "rank": 31,
+    "local_rank": 54,
+    "phq_attendance": 117,
+    "entities": [
+      {
+        "entity_id": "38zr2pRQb8vuHsZzC9Papc4",
+        "name": "The Bluegrass Coffee & Bourbon Lounge",
+        "type": "venue",
+        "formatted_address": "7415 Grandview Ave, Arvada, CO 80002, USA"
+      }
+    ],
+    "duration": 0,
+    "start": "2025-03-27T00:00:00Z",
+    "start_local": "2025-03-26T18:00:00",
+    "end": "2025-03-27T00:00:00Z",
+    "end_local": "2025-03-26T18:00:00",
+    "updated": "2024-10-13T02:10:12Z",
+    "first_seen": "2024-10-13T01:56:13Z",
+    "timezone": "America/Denver",
+    "location": [
+      -105.0795999,
+      39.799501
+    ]
+   
+  },
+  {
+    "relevance": 0,
+    "id": "5hRVnTZ88fsTMGMWU3",
+    "title": "Cyber Safety",
+    "description": "Sourced from predicthq.com - Learn how to stay safe online.",
+    "category": "conferences",
+    "labels": [
+      "conference",
+      "science",
+      "technology"
+    ],
+    "rank": 29,
+    "local_rank": 51,
+    "phq_attendance": 92,
+    "entities": [
+      {
+        "entity_id": "7mAp3WTuRqUG9icAgdWEki",
+        "name": "Spruce Grove Library",
+        "type": "venue",
+        "formatted_address": "35 5 Ave, Spruce Grove, AB T7X 2C5, Canada"
+      }
+    ],
+    "duration": 5400,
+    "start": "2025-03-27T00:00:00Z",
+    "start_local": "2025-03-26T18:00:00",
+    "end": "2025-03-27T01:30:00Z",
+    "end_local": "2025-03-26T19:30:00",
+    "updated": "2024-12-12T09:54:45Z",
+    "first_seen": "2024-12-12T09:50:51Z",
+    "timezone": "America/Edmonton",
+    "location": [
+      -113.8988589,
+      53.5460493
+    ]
+   
+  },
+  {
+    "relevance": 0,
+    "id": "5tpaCUWSXa8ygHQP4u",
+    "title": "Role Model with Debbii Dawson",
+    "alternate_titles": [
+      "Role Model With Special Guest Debbii Dawson - 15+",
+      "Role Model and Debbii Dawson",
+      "Role Model at The Fillmore Minneapolis"
+    ],
+    "description": "Sourced from predicthq.com",
+    "category": "concerts",
+    "labels": [
+      "concert",
+      "music"
+    ],
+    "rank": 48,
+    "local_rank": 66,
+    "phq_attendance": 799,
+    "entities": [
+      {
+        "entity_id": "x8ndjhkghvmLEKjsX7yY4f",
+        "name": "Fillmore Minneapolis",
+        "type": "venue",
+        "formatted_address": "525 N 5th St, Minneapolis, MN 55401, USA"
+      }
+    ],
+    "duration": 0,
+    "start": "2025-03-27T00:00:00Z",
+    "start_local": "2025-03-26T19:00:00",
+    "end": "2025-03-27T00:00:00Z",
+    "end_local": "2025-03-26T19:00:00",
+    "predicted_end": "2025-03-27T04:10:00Z",
+    "predicted_end_local": "2025-03-26T23:10:00",
+    "updated": "2024-12-27T18:26:16Z",
+    "first_seen": "2024-09-04T18:26:11Z",
+    "timezone": "America/Chicago",
+    "location": [
+      -93.27921750000002,
+      44.9841131
+    ]
+    
+  },
+  {
+    "relevance": 0,
+    "id": "5vyyJ4LqDUVU9QK97x",
+    "title": "Greg Fitzsimmons",
+    "description": "Sourced from predicthq.com",
+    "category": "performing-arts",
+    "labels": [
+      "comedy",
+      "entertainment",
+      "performing-arts"
+    ],
+    "rank": 38,
+    "local_rank": 58,
+    "phq_attendance": 258,
+    "entities": [
+      {
+        "entity_id": "f2qpgmq5khKGzzSGvP7DAu",
+        "name": "Parish",
+        "type": "venue",
+        "formatted_address": "214 E 6th St, Austin, TX 78701, USA"
+      }
+    ],
+    "duration": 0,
+    "start": "2025-03-27T00:00:00Z",
+    "start_local": "2025-03-26T19:00:00",
+    "end": "2025-03-27T00:00:00Z",
+    "end_local": "2025-03-26T19:00:00",
+    "predicted_end": "2025-03-27T01:50:00Z",
+    "predicted_end_local": "2025-03-26T20:50:00",
+    "updated": "2024-11-20T02:33:54Z",
+    "first_seen": "2024-11-09T00:34:32Z",
+    "timezone": "America/Chicago",
+    "location": [
+      -97.7407304,
+      30.2677333
+    ]
+   
+  },
+  {
+    "relevance": 0,
+    "id": "6ALrpFuceQq3KMRPiX",
+    "title": "Flipturn",
+    "alternate_titles": [
+      "flipturn at Egyptian Room",
+      "flipturn in Indianapolis"
+    ],
+    "description": "Sourced from predicthq.com",
+    "category": "concerts",
+    "labels": [
+      "concert",
+      "music"
+    ],
+    "rank": 55,
+    "local_rank": 75,
+    "phq_attendance": 1752,
+    "entities": [
+      {
+        "entity_id": "39j8Cw8SGtriTe9VsZPn27v",
+        "name": "The Deluxe at Old National Centre",
+        "type": "venue",
+        "formatted_address": "502 N New Jersey St, Indianapolis, IN 46204, USA"
+      }
+    ],
+    "duration": 0,
+    "start": "2025-03-27T00:00:00Z",
+    "start_local": "2025-03-26T20:00:00",
+    "end": "2025-03-27T00:00:00Z",
+    "end_local": "2025-03-26T20:00:00",
+    "predicted_end": "2025-03-27T04:10:00Z",
+    "predicted_end_local": "2025-03-27T00:10:00",
+    "updated": "2024-12-27T18:28:15Z",
+    "first_seen": "2024-10-15T23:17:11Z",
+    "timezone": "America/Indiana/Indianapolis",
+    "location": [
+      -86.1511,
+      39.7744
+    ]
+    
+  },
+  {
+    "relevance": 0,
+    "id": "6EA98HYaCSpDQQdhbJ",
+    "title": "Michel Barrette",
+    "description": "Sourced from predicthq.com",
+    "category": "performing-arts",
+    "labels": [
+      "comedy",
+      "entertainment",
+      "performing-arts"
+    ],
+    "rank": 40,
+    "local_rank": 60,
+    "phq_attendance": 317,
+    "entities": [
+      {
+        "entity_id": "T3pFGPjtiQacdzK3f2Xdbr",
+        "name": "L'Etoile Banque Nationale",
+        "type": "venue",
+        "formatted_address": "6000 Boulevard Rome, Brossard, QC J4Y 0B6, Canada"
+      }
+    ],
+    "duration": 0,
+    "start": "2025-03-27T00:00:00Z",
+    "start_local": "2025-03-26T20:00:00",
+    "end": "2025-03-27T00:00:00Z",
+    "end_local": "2025-03-26T20:00:00",
+    "predicted_end": "2025-03-27T01:50:00Z",
+    "predicted_end_local": "2025-03-26T21:50:00",
+    "updated": "2024-11-07T00:06:47Z",
+    "first_seen": "2024-09-05T00:14:08Z",
+    "timezone": "America/Toronto",
+    "location": [
+      -73.4403658,
+      45.44123189999999
+    ]
+    
+  },
+  {
+    "relevance": 0,
+    "id": "6LMnoQHwwwVZiPgFCj",
+    "title": "Toolfair London 2025",
+    "description": "Sourced from predicthq.com",
+    "category": "expos",
+    "labels": [
+      "expo"
+    ],
+    "rank": 61,
+    "local_rank": 71,
+    "phq_attendance": 3396,
+    "entities": [
+      {
+        "entity_id": "WtfQChwwU8NZ5mPqMsPGM7",
+        "name": "Alexandra Palace",
+        "type": "venue",
+        "formatted_address": "Alexandra Palace, Alexandra Palace Way, London N22 7AY, UK"
+      },
+      {
+        "entity_id": "WSdTwb8jjwm5YMa2FRgVsq",
+        "name": "Toolfair London",
+        "type": "event-group",
+        "formatted_address": "Alexandra Palace, Alexandra Palace Way, London N22 7AY, UK",
+        "category": "expos",
+        "labels": [
+          "event-group",
+          "expo",
+          "recurring"
+        ],
+        "recurring": {
+          "ical": "DTSTART;VALUE=DATE-TIME:20180131T000000\nRRULE:FREQ=YEARLY;INTERVAL=7"
+        }
+      }
+    ],
+    "duration": 172799,
+    "start": "2025-03-27T00:00:00Z",
+    "start_local": "2025-03-27T00:00:00",
+    "end": "2025-03-28T23:59:59Z",
+    "end_local": "2025-03-28T23:59:59",
+    "updated": "2024-12-08T01:45:47Z",
+    "first_seen": "2024-07-24T03:12:08Z",
+    "timezone": "Europe/London",
+    "location": [
+      -0.133537,
+      51.5903778
+    ]
+    
+  },
+  {
+    "relevance": 0,
+    "id": "6Zh5uYv3ncZzaMdREY",
+    "title": "Chris Wallace",
+    "description": "Sourced from predicthq.com",
+    "category": "concerts",
+    "labels": [
+      "concert",
+      "music"
+    ],
+    "rank": 55,
+    "local_rank": 72,
+    "phq_attendance": 1822,
+    "entities": [
+      {
+        "entity_id": "HaJAR2Qs6vJyeDAmXt8PV3",
+        "name": "Heinz Hall",
+        "type": "venue",
+        "formatted_address": "600 Penn Ave, Pittsburgh, PA 15222, USA"
+      }
+    ],
+    "duration": 0,
+    "start": "2025-03-27T00:00:00Z",
+    "start_local": "2025-03-26T20:00:00",
+    "end": "2025-03-27T00:00:00Z",
+    "end_local": "2025-03-26T20:00:00",
+    "predicted_end": "2025-03-27T04:30:00Z",
+    "predicted_end_local": "2025-03-27T00:30:00",
+    "updated": "2024-12-25T06:13:10Z",
+    "first_seen": "2024-11-28T18:16:56Z",
+    "timezone": "America/New_York",
+    "location": [
+      -80.00144999999999,
+      40.44266940000001
+    ]
+   
+  },
+  {
+    "relevance": 0,
+    "id": "6fV7VKsDLU4852ESF8",
+    "title": "Korean Society of Hematology International Conference",
+    "description": "Sourced from predicthq.com",
+    "category": "conferences",
+    "labels": [
+      "conference"
+    ],
+    "rank": 44,
+    "local_rank": 44,
+    "phq_attendance": 500,
+    "entities": [
+      {
+        "entity_id": "vFiSQvK4nppDB7EBQkR6eT",
+        "name": "Grande Walkerhill in Seoul",
+        "type": "venue",
+        "formatted_address": "177 Walkerhill-ro Gwangjang-dong Gwangjin-gu Seoul\nKorea, Republic of"
+      },
+      {
+        "entity_id": "urp9wLQHknFTuaBqQNuLcL",
+        "name": "Korean Society of Hematology International Conference",
+        "type": "event-group",
+        "formatted_address": "177 Walkerhill-ro, Gwangjang-dong, Gwangjin-gu, Seoul, South Korea",
+        "category": "conferences",
+        "labels": [
+          "conference",
+          "event-group"
+        ]
+      }
+    ],
+    "duration": 205200,
+    "start": "2025-03-27T00:00:00Z",
+    "start_local": "2025-03-27T09:00:00",
+    "end": "2025-03-29T09:00:00Z",
+    "end_local": "2025-03-29T18:00:00",
+    "updated": "2024-11-08T18:00:43Z",
+    "first_seen": "2024-11-08T18:00:18Z",
+    "timezone": "Asia/Seoul",
+    "location": [
+      127.110955,
+      37.555094
+    ]
+    
+  },
+  {
+    "relevance": 0,
+    "id": "6gQVCviCi2NgFcrJdc",
+    "title": "Peru Community Schools - Spring Break",
+    "description": "Sourced from predicthq.com",
+    "category": "school-holidays",
+    "labels": [
+      "holiday",
+      "school",
+      "spring-holiday"
+    ],
+    "rank": 56,
+    "local_rank": 60,
+    "phq_attendance": 2059,
+    "entities": [],
+    "duration": 950399,
+    "start": "2025-03-27T00:00:00Z",
+    "start_local": "2025-03-27T00:00:00",
+    "end": "2025-04-06T23:59:59Z",
+    "end_local": "2025-04-06T23:59:59",
+    "updated": "2024-08-08T00:48:12Z",
+    "first_seen": "2024-02-06T14:05:22Z",
+    "timezone": null,
+    "location": [
+      -86.0442343865,
+      40.7806176908
+    ]
+   
+  },
+  {
+    "relevance": 0,
+    "id": "6tsisiamMjuSJ6XjfE",
+    "title": "The Sleeping Beauty- State Ballet of Ukraine",
+    "alternate_titles": [
+      "State Ballet Theatre of Ukraine - Sleeping Beauty at W.L. Jack Howard Theatre"
+    ],
+    "description": "Sourced from predicthq.com",
+    "category": "performing-arts",
+    "labels": [
+      "entertainment",
+      "performing-arts"
+    ],
+    "rank": 53,
+    "local_rank": 81,
+    "phq_attendance": 1411,
+    "entities": [
+      {
+        "entity_id": "V5u7wDvdzrMXgHLQgPqnbc",
+        "name": "Jack Howard Theatre",
+        "type": "venue",
+        "formatted_address": "401 Lea Joyner Memorial Expy, Monroe, LA 71201, USA"
+      }
+    ],
+    "duration": 0,
+    "start": "2025-03-27T00:00:00Z",
+    "start_local": "2025-03-26T19:00:00",
+    "end": "2025-03-27T00:00:00Z",
+    "end_local": "2025-03-26T19:00:00",
+    "predicted_end": "2025-03-27T02:10:00Z",
+    "predicted_end_local": "2025-03-26T21:10:00",
+    "updated": "2024-12-24T18:31:13Z",
+    "first_seen": "2024-05-14T00:48:23Z",
+    "timezone": "America/Chicago",
+    "location": [
+      -92.1087377694,
+      32.5028696526
+    ]
+    
+  },
+  {
+    "relevance": 0,
+    "id": "6vBHQ4zvHamVeD2o7R",
+    "title": "La Liga Desarollo - Instituto U22 vs Unión Santa Fe U22",
+    "description": "Sourced from predicthq.com",
+    "category": "sports",
+    "labels": [
+      "basketball",
+      "sport"
+    ],
+    "rank": 56,
+    "local_rank": 71,
+    "phq_attendance": 2000,
+    "entities": [
+      {
+        "entity_id": "cv4e4K6SduerrWFkLCRfzZ",
+        "name": "Gimnasio Angel Sandrin",
+        "type": "venue",
+        "formatted_address": "Jujuy 2640, Córdoba, Argentina"
+      }
+    ],
+    "duration": 0,
+    "start": "2025-03-27T00:00:00Z",
+    "start_local": "2025-03-26T21:00:00",
+    "end": "2025-03-27T00:00:00Z",
+    "end_local": "2025-03-26T21:00:00",
+    "predicted_end": "2025-03-27T01:45:00Z",
+    "predicted_end_local": "2025-03-26T22:45:00",
+    "updated": "2024-12-27T02:18:15Z",
+    "first_seen": "2024-12-15T07:04:36Z",
+    "timezone": "America/Argentina/Cordoba",
+    "location": [
+      -64.1807435,
+      -31.3845389
+    ]
+   
+  },
+  {
+    "relevance": 0,
+    "id": "747Lo63FmFTWEiasnJ",
+    "title": "THE DAMN TRUTH",
+    "alternate_titles": [
+      "The Damn Truth at MTELUS"
+    ],
+    "description": "Sourced from predicthq.com",
+    "category": "concerts",
+    "labels": [
+      "concert",
+      "music"
+    ],
+    "rank": 53,
+    "local_rank": 63,
+    "phq_attendance": 1476,
+    "entities": [
+      {
+        "entity_id": "7dKKE4i54JRRMAQgcFnVBj",
+        "name": "M Telus",
+        "type": "venue",
+        "formatted_address": "59 Rue Sainte-Catherine Est\nMontréal, Québec H2X 1K5\nCanada"
+      }
+    ],
+    "duration": 0,
+    "start": "2025-03-27T00:00:00Z",
+    "start_local": "2025-03-26T20:00:00",
+    "end": "2025-03-27T00:00:00Z",
+    "end_local": "2025-03-26T20:00:00",
+    "predicted_end": "2025-03-27T04:10:00Z",
+    "predicted_end_local": "2025-03-27T00:10:00",
+    "updated": "2024-12-24T06:57:20Z",
+    "first_seen": "2024-11-15T00:05:43Z",
+    "timezone": "America/Toronto",
+    "location": [
+      -73.5634403,
+      45.5106185
+    ]
+   
+  },
+  {
+    "relevance": 0,
+    "id": "772fFLpnvPFSMAjFTm",
+    "title": "Altan",
+    "description": "Sourced from predicthq.com",
+    "category": "concerts",
+    "labels": [
+      "concert",
+      "music"
+    ],
+    "rank": 34,
+    "local_rank": 62,
+    "phq_attendance": 167,
+    "entities": [
+      {
+        "entity_id": "39TPpjvr3jwzjwhZWEa9dRJ",
+        "name": "Sellersville Theater",
+        "type": "venue",
+        "formatted_address": "24 W Temple Ave, Sellersville, PA 18960, USA"
+      }
+    ],
+    "duration": 0,
+    "start": "2025-03-27T00:00:00Z",
+    "start_local": "2025-03-26T20:00:00",
+    "end": "2025-03-27T00:00:00Z",
+    "end_local": "2025-03-26T20:00:00",
+    "predicted_end": "2025-03-27T02:30:00Z",
+    "predicted_end_local": "2025-03-26T22:30:00",
+    "updated": "2024-12-24T11:40:57Z",
+    "first_seen": "2024-11-28T00:49:47Z",
+    "timezone": "America/New_York",
+    "location": [
+      -75.311438,
+      40.3592295
+    ]
+   
+  },
+  {
+    "relevance": 0,
+    "id": "7HZfjKmz57Hh2agTPH",
+    "title": "Gaelic Storm",
+    "alternate_titles": [
+      "Gaelic Storm at Academy of Music Theatre",
+      "Gaelic Storm in Northampton",
+      "Reverend Peyton's Big Damn Band"
+    ],
+    "description": "Sourced from predicthq.com",
+    "category": "concerts",
+    "labels": [
+      "concert",
+      "music"
+    ],
+    "rank": 43,
+    "local_rank": 65,
+    "phq_attendance": 469,
+    "entities": [
+      {
+        "entity_id": "aLTzsriPbcFNr4yRZvdWrL",
+        "name": "The Academy of Music Theatre",
+        "type": "venue",
+        "formatted_address": "274 Main St, Northampton, MA 01060, USA"
+      }
+    ],
+    "duration": 0,
+    "start": "2025-03-27T00:00:00Z",
+    "start_local": "2025-03-26T20:00:00",
+    "end": "2025-03-27T00:00:00Z",
+    "end_local": "2025-03-26T20:00:00",
+    "predicted_end": "2025-03-27T02:30:00Z",
+    "predicted_end_local": "2025-03-26T22:30:00",
+    "updated": "2024-12-27T18:26:53Z",
+    "first_seen": "2024-09-20T01:38:49Z",
+    "timezone": "America/New_York",
+    "location": [
+      -72.6334449,
+      42.3179763
+    ]
+   
+  },
+  {
+    "relevance": 0,
+    "id": "7Sa9rRaKG5WL3XXTLV",
+    "title": "SahBabii",
+    "alternate_titles": [
+      "SahBabii at Center Stage Theater",
+      "SahBabii in Atlanta"
+    ],
+    "description": "Sourced from predicthq.com",
+    "category": "concerts",
+    "labels": [
+      "concert",
+      "music"
+    ],
+    "rank": 51,
+    "local_rank": 68,
+    "phq_attendance": 1114,
+    "entities": [
+      {
+        "entity_id": "64464UFysmVbhKKaihva24",
+        "name": "Center Stage Theater",
+        "type": "venue",
+        "formatted_address": "1374 W Peachtree St NW, Atlanta, GA 30309, USA"
+      },
+      {
+        "entity_id": "35f-3QkaZ0W0zHKC31LlCA",
+        "name": "SahBabii at Center Stage Theater",
+        "type": "event-group",
+        "category": "concerts",
+        "labels": [
+          "concert",
+          "residency"
+        ]
+      }
+    ],
+    "duration": 0,
+    "start": "2025-03-27T00:00:00Z",
+    "start_local": "2025-03-26T20:00:00",
+    "end": "2025-03-27T00:00:00Z",
+    "end_local": "2025-03-26T20:00:00",
+    "predicted_end": "2025-03-27T04:30:00Z",
+    "predicted_end_local": "2025-03-27T00:30:00",
+    "updated": "2024-12-27T18:28:48Z",
+    "first_seen": "2024-12-19T00:24:37Z",
+    "timezone": "America/New_York",
+    "location": [
+      -84.3882896,
+      33.7921622
+    ]
+   
+  },
+  {
+    "relevance": 0,
+    "id": "7Vfb5tg4CPPW6KBVUt",
+    "title": "Donavon Frankenreiter",
+    "description": "Sourced from predicthq.com",
+    "category": "concerts",
+    "labels": [
+      "concert",
+      "music"
+    ],
+    "rank": 41,
+    "local_rank": 49,
+    "phq_attendance": 337,
+    "entities": [
+      {
+        "entity_id": "83PBUqCqXjLqV2YrTypaZT",
+        "name": "Lincoln Hall",
+        "type": "venue",
+        "formatted_address": "2424 North Lincoln Avenue, 2424 N Lincoln Ave, Chicago, IL 60614, USA"
+      }
+    ],
+    "duration": 0,
+    "start": "2025-03-27T00:00:00Z",
+    "start_local": "2025-03-26T19:00:00",
+    "end": "2025-03-27T00:00:00Z",
+    "end_local": "2025-03-26T19:00:00",
+    "predicted_end": "2025-03-27T04:10:00Z",
+    "predicted_end_local": "2025-03-26T23:10:00",
+    "updated": "2024-12-12T13:17:05Z",
+    "first_seen": "2024-11-12T00:26:14Z",
+    "timezone": "America/Chicago",
+    "location": [
+      -87.6497572,
+      41.9259783
+    ]
+   
+  },
+  {
+    "relevance": 0,
+    "id": "7t6bY8Md3sLbrUgZT3",
+    "title": "Roanoke Rapids Graded School District - March Break",
+    "description": "Sourced from predicthq.com",
+    "category": "school-holidays",
+    "labels": [
+      "holiday",
+      "school"
+    ],
+    "rank": 58,
+    "local_rank": 73,
+    "phq_attendance": 2593,
+    "entities": [],
+    "duration": 345599,
+    "start": "2025-03-27T00:00:00Z",
+    "start_local": "2025-03-27T00:00:00",
+    "end": "2025-03-30T23:59:59Z",
+    "end_local": "2025-03-30T23:59:59",
+    "updated": "2024-08-07T05:23:41Z",
+    "first_seen": "2024-05-21T13:35:46Z",
+    "timezone": null,
+    "location": [
+      -77.6565563538,
+      36.4596244435
+    ]
+   
+  },
+  {
+    "relevance": 0,
+    "id": "7uR7Jv3qdGhaHCwrBA",
+    "title": "Carrollton School District - Spring Break",
+    "description": "Sourced from predicthq.com",
+    "category": "school-holidays",
+    "labels": [
+      "holiday",
+      "school",
+      "spring-holiday"
+    ],
+    "rank": 49,
+    "local_rank": 61,
+    "phq_attendance": 854,
+    "entities": [],
+    "duration": 345599,
+    "start": "2025-03-27T00:00:00Z",
+    "start_local": "2025-03-27T00:00:00",
+    "end": "2025-03-30T23:59:59Z",
+    "end_local": "2025-03-30T23:59:59",
+    "updated": "2024-07-25T01:14:35Z",
+    "first_seen": "2024-05-21T13:28:58Z",
+    "timezone": null,
+    "location": [
+      -93.4903433163,
+      39.375189809
+    ]
+   
+  },
+  {
+    "relevance": 0,
+    "id": "7vHRpGrszXN2UKB6eN",
+    "title": "EDW Lucha Live in Lincoln, NE at Frontier Harley-Davidson - 21+!",
+    "description": "Sourced from predicthq.com",
+    "category": "sports",
+    "labels": [
+      "sport",
+      "wrestling"
+    ],
+    "rank": 30,
+    "local_rank": 55,
+    "phq_attendance": 100,
+    "entities": [],
+    "duration": 0,
+    "start": "2025-03-27T00:00:00Z",
+    "start_local": "2025-03-26T19:00:00",
+    "end": "2025-03-27T00:00:00Z",
+    "end_local": "2025-03-26T19:00:00",
+    "updated": "2024-12-08T06:55:58Z",
+    "first_seen": "2024-12-08T05:35:55Z",
+    "timezone": "America/Chicago",
+    "location": [
+      -96.77894,
+      40.81523
+    ]
+   
+  },
+  {
+    "relevance": 0,
+    "id": "8d6vn8KCCAEJFMUsid",
+    "title": "ULTRA SUNN",
+    "alternate_titles": [
+      "Ultra Sunn at The Garrison"
+    ],
+    "description": "Sourced from predicthq.com",
+    "category": "concerts",
+    "labels": [
+      "concert",
+      "music"
+    ],
+    "rank": 39,
+    "local_rank": 48,
+    "phq_attendance": 297,
+    "entities": [
+      {
+        "entity_id": "8YSuPbVSjnr778y7mWrfXw",
+        "name": "The Garrison",
+        "type": "venue",
+        "formatted_address": "1197 Dundas St W, Toronto, ON M6J 1X3, Canada"
+      }
+    ],
+    "duration": 0,
+    "start": "2025-03-27T00:00:00Z",
+    "start_local": "2025-03-26T20:00:00",
+    "end": "2025-03-27T00:00:00Z",
+    "end_local": "2025-03-26T20:00:00",
+    "predicted_end": "2025-03-27T06:40:00Z",
+    "predicted_end_local": "2025-03-27T02:40:00",
+    "updated": "2024-12-13T06:56:49Z",
+    "first_seen": "2024-06-10T20:58:48Z",
+    "timezone": "America/Toronto",
+    "location": [
+      -79.4223321,
+      43.6492659
+    ]
+    
+  },
+  {
+    "relevance": 0,
+    "id": "8dNtXwcRpNgeqZvwEY",
+    "title": "North Shelby School District - Spring Break",
+    "description": "Sourced from predicthq.com",
+    "category": "school-holidays",
+    "labels": [
+      "holiday",
+      "school",
+      "spring-holiday"
+    ],
+    "rank": 42,
+    "local_rank": 79,
+    "phq_attendance": 397,
+    "entities": [],
+    "duration": 345599,
+    "start": "2025-03-27T00:00:00Z",
+    "start_local": "2025-03-27T00:00:00",
+    "end": "2025-03-30T23:59:59Z",
+    "end_local": "2025-03-30T23:59:59",
+    "updated": "2024-07-25T00:11:34Z",
+    "first_seen": "2024-05-07T13:22:42Z",
+    "timezone": null,
+    "location": [
+      -92.0478632832,
+      39.8665190758
+    ]
+   
+  },
+  {
+    "relevance": 0,
+    "id": "8iXdxDonKrYSJmesWg",
+    "title": "Federal Way Public Schools - Spring Break",
+    "description": "Sourced from predicthq.com",
+    "category": "school-holidays",
+    "labels": [
+      "holiday",
+      "school",
+      "spring-holiday"
+    ],
+    "rank": 78,
+    "local_rank": 62,
+    "phq_attendance": 24062,
+    "entities": [],
+    "duration": 950399,
+    "start": "2025-03-27T00:00:00Z",
+    "start_local": "2025-03-27T00:00:00",
+    "end": "2025-04-06T23:59:59Z",
+    "end_local": "2025-04-06T23:59:59",
+    "updated": "2024-07-25T00:23:50Z",
+    "first_seen": "2023-11-07T13:35:48Z",
+    "timezone": null,
+    "location": [
+      -122.3172958571,
+      47.3170634714
+    ]
+   
+  },
+  {
+    "relevance": 0,
+    "id": "8qFNopRDLDTjdT6JCe",
+    "title": "Windham Exempted Village Schools - Spring Break",
+    "description": "Sourced from predicthq.com",
+    "category": "school-holidays",
+    "labels": [
+      "holiday",
+      "school",
+      "spring-holiday"
+    ],
+    "rank": 44,
+    "local_rank": 54,
+    "phq_attendance": 512,
+    "entities": [],
+    "duration": 431999,
+    "start": "2025-03-27T00:00:00Z",
+    "start_local": "2025-03-27T00:00:00",
+    "end": "2025-03-31T23:59:59Z",
+    "end_local": "2025-03-31T23:59:59",
+    "updated": "2024-08-07T21:01:35Z",
+    "first_seen": "2024-04-02T14:22:29Z",
+    "timezone": null,
+    "location": [
+      -81.05147647,
+      41.2506792876
+    ]
+   
+  },
+  {
+    "relevance": 0,
+    "id": "8tx7ttEKvXdyspMMhy",
+    "title": "The District House (Wed. 03/26 - Conscious Connections Roundtable)",
+    "description": "Sourced from predicthq.com",
+    "category": "community",
+    "labels": [
+      "community",
+      "health"
+    ],
+    "rank": 30,
+    "local_rank": 48,
+    "phq_attendance": 100,
+    "entities": [],
+    "duration": 14400,
+    "start": "2025-03-27T00:00:00Z",
+    "start_local": "2025-03-26T17:00:00",
+    "end": "2025-03-27T04:00:00Z",
+    "end_local": "2025-03-26T21:00:00",
+    "updated": "2024-12-22T04:40:14Z",
+    "first_seen": "2024-12-22T02:26:47Z",
+    "timezone": "America/Los_Angeles",
+    "location": [
+      -119.69104,
+      34.41832
+    ]
+  
+  },
+  {
+    "relevance": 0,
+    "id": "8wLuR9sQCZLTm6KAgJ",
+    "title": "Athens Area School District - March Break",
+    "description": "Sourced from predicthq.com",
+    "category": "school-holidays",
+    "labels": [
+      "holiday",
+      "school"
+    ],
+    "rank": 58,
+    "local_rank": 63,
+    "phq_attendance": 2388,
+    "entities": [],
+    "duration": 431999,
+    "start": "2025-03-27T00:00:00Z",
+    "start_local": "2025-03-27T00:00:00",
+    "end": "2025-03-31T23:59:59Z",
+    "end_local": "2025-03-31T23:59:59",
+    "updated": "2024-07-25T00:48:11Z",
+    "first_seen": "2024-05-07T13:17:39Z",
+    "timezone": null,
+    "location": [
+      -76.5776091457,
+      41.9024024786
+    ]
+   
+  },
+  {
+    "relevance": 0,
+    "id": "9TMM5WQEdXv6PQqVZ8",
+    "title": "Day After Laila tou-Kadr",
+    "description": "Sourced from predicthq.com",
+    "category": "public-holidays",
+    "labels": [
+      "holiday",
+      "holiday-national"
+    ],
+    "rank": 90,
+    "local_rank": null,
+    "phq_attendance": null,
+    "entities": [
+      {
+        "entity_id": "DMXazsCuyJwkrnHgbZhrDk",
+        "name": "Day After Laila tou-Kadr",
+        "type": "event-group",
+        "category": "public-holidays",
+        "labels": [
+          "event-group",
+          "holiday",
+          "holiday-national",
+          "recurring"
+        ]
+      }
+    ],
+    "duration": 86399,
+    "start": "2025-03-27T00:00:00Z",
+    "start_local": "2025-03-27T00:00:00",
+    "end": "2025-03-27T23:59:59Z",
+    "end_local": "2025-03-27T23:59:59",
+    "updated": "2024-07-24T21:24:44Z",
+    "first_seen": "2022-01-05T00:04:34Z",
+    "timezone": null,
+    "location": [
+      -5.54708,
+      7.53999
+    ]
+   
+  },
+  {
+    "relevance": 0,
+    "id": "9WGvFNtfKeuXLknFRT",
+    "title": "Turkish Mosaic Lamp Class Sydney",
+    "alternate_titles": [
+      "Turkish Lamp Workshop in Sydney"
+    ],
+    "description": "Sourced from predicthq.com - Experience Anatolia’s rich cultural heritage as you join the best-selling mosaic lamp workshop to create your very own mosaic lamp!\n\nLearn traditional art with a contemporary twist as you travel to the ancient lands of Anatolia in a studio located in Darlinghurst, Sydney. In this spectacular class, you will experience a glimpse of the Grand Bazaar of Istanbul as you create a dazzling mosaic lamp.\n\nDuring this two-hour workshop, you will learn the techniques of creating stunning Islamic geometric patterns using specially cut and stained mosaic glass tiles to create your very own Turkish mosaic lamp.\n\nWhile enjoying a complimentary Turkish afternoon tea service, the facilitators will guide you through every step of making these dazzling light ornaments that once lit up the Ottoman palaces, giving a magical ambience and glow to your home.\n\nThis workshop is complemented with traditional Turkish tea and sweets.\n\nIndulge in true Turkish hospitality as you unleash your inner creativity!",
+    "category": "community",
+    "labels": [
+      "community"
+    ],
+    "rank": 30,
+    "local_rank": 37,
+    "phq_attendance": 100,
+    "entities": [
+      {
+        "entity_id": "pypntjiLX75jBYMN8Y5qDU",
+        "name": "Turkish Mosaic Lamp Class Sydney",
+        "type": "event-group",
+        "category": "community",
+        "labels": [
+          "community",
+          "event-group",
+          "recurring"
+        ]
+      }
+    ],
+    "duration": 7200,
+    "start": "2025-03-27T00:00:00Z",
+    "start_local": "2025-03-27T11:00:00",
+    "end": "2025-03-27T02:00:00Z",
+    "end_local": "2025-03-27T13:00:00",
+    "updated": "2024-12-15T02:02:35Z",
+    "first_seen": "2024-02-29T07:32:30Z",
+    "timezone": "Australia/Sydney",
+    "location": [
+      151.2151012,
+      -33.8743256
+    ]
+   
+  },
+  {
+    "relevance": 0,
+    "id": "9WwJVdsUjvkpP6ShYq",
+    "title": "The Harlem Globetrotters at Show Me Center",
+    "description": "Sourced from predicthq.com",
+    "category": "performing-arts",
+    "labels": [
+      "performing-arts"
+    ],
+    "rank": 61,
+    "local_rank": 86,
+    "phq_attendance": 3620,
+    "entities": [
+      {
+        "entity_id": "33k3aMyc4fqVrXCCYchsQY3",
+        "name": "Show Me Center",
+        "type": "venue",
+        "formatted_address": "1333 N Sprigg St, Cape Girardeau, MO 63701, USA"
+      }
+    ],
+    "duration": 0,
+    "start": "2025-03-27T00:00:00Z",
+    "start_local": "2025-03-26T19:00:00",
+    "end": "2025-03-27T00:00:00Z",
+    "end_local": "2025-03-26T19:00:00",
+    "predicted_end": "2025-03-27T01:50:00Z",
+    "predicted_end_local": "2025-03-26T20:50:00",
+    "updated": "2024-12-27T14:28:02Z",
+    "first_seen": "2024-10-29T06:06:05Z",
+    "timezone": "America/Chicago",
+    "location": [
+      -89.5273982,
+      37.3199621
+    ]
+   
+  },
+  {
+    "relevance": 0,
+    "id": "9YpQzQfbtp8jqf5RHw",
+    "title": "Bath Community Schools - Spring Break",
+    "description": "Sourced from predicthq.com",
+    "category": "school-holidays",
+    "labels": [
+      "holiday",
+      "school",
+      "spring-holiday"
+    ],
+    "rank": 52,
+    "local_rank": 49,
+    "phq_attendance": 1231,
+    "entities": [],
+    "duration": 950399,
+    "start": "2025-03-27T00:00:00Z",
+    "start_local": "2025-03-27T00:00:00",
+    "end": "2025-04-06T23:59:59Z",
+    "end_local": "2025-04-06T23:59:59",
+    "updated": "2024-07-30T13:39:08Z",
+    "first_seen": "2024-07-30T13:38:37Z",
+    "timezone": null,
+    "location": [
+      -84.4467425876,
+      42.8217447932
+    ]
+   
+  },
+  {
+    "relevance": 0,
+    "id": "9c5sGqzk9xYouAQhNE",
+    "title": "Twain with Esther Rose",
+    "alternate_titles": [
+      "Esther Rose and Twain",
+      "Twain at Bar le Ritz PDB"
+    ],
+    "description": "Sourced from predicthq.com",
+    "category": "concerts",
+    "labels": [
+      "concert",
+      "music"
+    ],
+    "rank": 40,
+    "local_rank": 48,
+    "phq_attendance": 310,
+    "entities": [
+      {
+        "entity_id": "w8rVdrLDVkSR7KCsLhx7GC",
+        "name": "Bar Le Ritz PDB",
+        "type": "venue",
+        "formatted_address": "179 Rue Jean, Montreal, H2R 2X2, Canada"
+      }
+    ],
+    "duration": 0,
+    "start": "2025-03-27T00:00:00Z",
+    "start_local": "2025-03-26T20:00:00",
+    "end": "2025-03-27T00:00:00Z",
+    "end_local": "2025-03-26T20:00:00",
+    "predicted_end": "2025-03-27T04:10:00Z",
+    "predicted_end_local": "2025-03-27T00:10:00",
+    "updated": "2024-12-24T18:31:51Z",
+    "first_seen": "2024-10-18T00:01:25Z",
+    "timezone": "America/Toronto",
+    "location": [
+      -73.6166,
+      45.5363
+    ]
+    
+  },
+  {
+    "relevance": 0,
+    "id": "9jFmPhGX9vJHa9M3TJ",
+    "title": "Kim Dracula + HANABIE",
+    "alternate_titles": [
+      "Kim Dracula at The Pageant",
+      "Kim Dracula, Crystal Lake, Kaonashi in Saint Louis",
+      "Kim Dracula, Kaonashi, and HANABIE"
+    ],
+    "description": "Sourced from predicthq.com",
+    "category": "concerts",
+    "labels": [
+      "concert",
+      "music"
+    ],
+    "rank": 57,
+    "local_rank": 77,
+    "phq_attendance": 2141,
+    "entities": [
+      {
+        "entity_id": "n29RudMXVgXaie33CbqwrL",
+        "name": "The Pageant",
+        "type": "venue",
+        "formatted_address": "6161 Delmar Blvd, St. Louis, MO 63112, USA"
+      }
+    ],
+    "duration": 0,
+    "start": "2025-03-27T00:00:00Z",
+    "start_local": "2025-03-26T19:00:00",
+    "end": "2025-03-27T00:00:00Z",
+    "end_local": "2025-03-26T19:00:00",
+    "predicted_end": "2025-03-27T04:10:00Z",
+    "predicted_end_local": "2025-03-26T23:10:00",
+    "updated": "2024-12-27T18:29:47Z",
+    "first_seen": "2024-12-18T00:17:48Z",
+    "timezone": "America/Chicago",
+    "location": [
+      -90.2978793,
+      38.6556061
+    ]
+   
+  },
+  {
+    "relevance": 0,
+    "id": "9qgTZVaNFfyobLYAGJ",
+    "title": "Jeanne Côté",
+    "description": "Sourced from predicthq.com - Jeanne Côté offers a folk-pop universe rooted in the piano, where voice and lyrics are highlighted",
+    "category": "concerts",
+    "labels": [
+      "concert",
+      "music"
+    ],
+    "rank": 35,
+    "local_rank": 44,
+    "phq_attendance": 188,
+    "entities": [],
+    "duration": 5400,
+    "start": "2025-03-27T00:00:00Z",
+    "start_local": "2025-03-26T20:00:00",
+    "end": "2025-03-27T01:30:00Z",
+    "end_local": "2025-03-26T21:30:00",
+    "updated": "2024-10-12T14:38:54Z",
+    "first_seen": "2024-10-12T12:49:38Z",
+    "timezone": "America/Toronto",
+    "location": [
+      -79.4052323,
+      43.6687534
+    ]
+   
+  },
+  {
+    "relevance": 0,
+    "id": "9squv7YSt2S9g9iPKq",
+    "title": "Kevin Lamar",
+    "description": "Sourced from predicthq.com",
+    "category": "community",
+    "labels": [
+      "concert",
+      "music"
+    ],
+    "rank": 27,
+    "local_rank": 51,
+    "phq_attendance": 70,
+    "entities": [
+      {
+        "entity_id": "W7w48x7fPPy4fmeWy3Gs6V",
+        "name": "Red Brick Tavern",
+        "type": "venue",
+        "formatted_address": "119 Simonton St, Conroe, TX 77301, USA"
+      }
+    ],
+    "duration": 0,
+    "start": "2025-03-27T00:00:00Z",
+    "start_local": "2025-03-26T19:00:00",
+    "end": "2025-03-27T00:00:00Z",
+    "end_local": "2025-03-26T19:00:00",
+    "updated": "2024-11-24T04:31:55Z",
+    "first_seen": "2024-11-24T03:37:42Z",
+    "timezone": "America/Chicago",
+    "location": [
+      -95.4567058,
+      30.3111654
+    ]
+
+  },
+  {
+    "relevance": 0,
+    "id": "9tN3mBtkgb2y4LJavU",
+    "title": "Angela Hewitt",
+    "description": "Sourced from predicthq.com",
+    "category": "concerts",
+    "labels": [
+      "concert",
+      "music"
+    ],
+    "rank": 52,
+    "local_rank": 58,
+    "phq_attendance": 1230,
+    "entities": [
+      {
+        "entity_id": "Uvw4QuS7T4Eq8BKAvUbyLR",
+        "name": "Roy Thomson Hall",
+        "type": "venue",
+        "formatted_address": "60 Simcoe St, Toronto, ON M5J 2H5, Canada"
+      },
+      {
+        "entity_id": "FYt3f2ZDvkQrmaOcxUaLFw",
+        "name": "Angela Hewitt at Roy Thomson Hall",
+        "type": "event-group",
+        "category": "concerts",
+        "labels": [
+          "concert",
+          "residency"
+        ]
+      }
+    ],
+    "duration": 0,
+    "start": "2025-03-27T00:00:00Z",
+    "start_local": "2025-03-26T20:00:00",
+    "end": "2025-03-27T00:00:00Z",
+    "end_local": "2025-03-26T20:00:00",
+    "predicted_end": "2025-03-27T02:30:00Z",
+    "predicted_end_local": "2025-03-26T22:30:00",
+    "updated": "2024-12-25T06:13:35Z",
+    "first_seen": "2024-08-09T18:31:27Z",
+    "timezone": "America/Toronto",
+    "location": [
+      -79.3860921,
+      43.6470153
+    ]
+   
+  },
+  {
+    "relevance": 0,
+    "id": "9wNWRoyEpPxAibdqxZ",
+    "title": "Tenerife Bluetrail",
+    "description": "Sourced from predicthq.com",
+    "category": "sports",
+    "labels": [
+      "outdoor-sports",
+      "running",
+      "sport"
+    ],
+    "rank": 33,
+    "local_rank": 97,
+    "phq_attendance": 146,
+    "entities": [],
+    "duration": 259199,
+    "start": "2025-03-27T00:00:00Z",
+    "start_local": "2025-03-27T00:00:00",
+    "end": "2025-03-29T23:59:59Z",
+    "end_local": "2025-03-29T23:59:59",
+    "updated": "2024-10-14T01:21:32Z",
+    "first_seen": "2024-10-14T01:14:04Z",
+    "timezone": "Atlantic/Canary",
+    "location": [
+      -16.6291304,
+      28.2915637
+    ]
+
+  },
+  {
+    "relevance": 0,
+    "id": "9xAuucXG4YEZteeePq",
+    "title": "Paul Cauthen",
+    "alternate_titles": [
+      "Paul Cauthen at Aura"
+    ],
+    "description": "Sourced from predicthq.com",
+    "category": "concerts",
+    "labels": [
+      "concert",
+      "music"
+    ],
+    "rank": 46,
+    "local_rank": 60,
+    "phq_attendance": 623,
+    "entities": [
+      {
+        "entity_id": "a8AAf2GXxpWDj2C6Ru74TT",
+        "name": "Aura",
+        "type": "venue",
+        "formatted_address": "121 Center St, Portland, ME 04101, USA"
+      }
+    ],
+    "duration": 0,
+    "start": "2025-03-27T00:00:00Z",
+    "start_local": "2025-03-26T20:00:00",
+    "end": "2025-03-27T00:00:00Z",
+    "end_local": "2025-03-26T20:00:00",
+    "predicted_end": "2025-03-27T03:10:00Z",
+    "predicted_end_local": "2025-03-26T23:10:00",
+    "updated": "2024-12-27T18:28:38Z",
+    "first_seen": "2024-12-04T21:13:59Z",
+    "timezone": "America/New_York",
+    "location": [
+      -70.2589032,
+      43.6565603
+    ]
+   
+  },
+  {
+    "relevance": 0,
+    "id": "ABQSmbAhtLR5R7BLHA",
+    "title": "SMASH",
+    "description": "Sourced from predicthq.com",
+    "category": "performing-arts",
+    "labels": [
+      "entertainment",
+      "music",
+      "performing-arts"
+    ],
+    "rank": 0,
+    "local_rank": 0,
+    "phq_attendance": null,
+    "entities": [],
+    "duration": 0,
+    "start": "2025-03-27T00:00:00Z",
+    "start_local": "2025-03-26T20:00:00",
+    "end": "2025-03-27T00:00:00Z",
+    "end_local": "2025-03-26T20:00:00",
+    "predicted_end": "2025-03-27T01:50:00Z",
+    "predicted_end_local": "2025-03-26T21:50:00",
+    "updated": "2024-12-19T01:12:26Z",
+    "first_seen": "2024-12-19T01:06:20Z",
+    "timezone": "America/New_York",
+    "location": [
+      -73.9874493,
+      40.7588634
+    ]
+    
+  },
+  {
+    "relevance": 0,
+    "id": "AC8sHWvmewJJfYLjo6",
+    "title": "Lunar Vacation",
+    "alternate_titles": [
+      "Lunar Vacation at 7th St Entry",
+      "Lunar Vacation in Minneapolis"
+    ],
+    "description": "Sourced from predicthq.com",
+    "category": "concerts",
+    "labels": [
+      "concert",
+      "music"
+    ],
+    "rank": 38,
+    "local_rank": 54,
+    "phq_attendance": 260,
+    "entities": [
+      {
+        "entity_id": "T8zrSEeaaqm2FqLezgTP9v",
+        "name": "7th Street Entry",
+        "type": "venue",
+        "formatted_address": "29 N 7th St, Minneapolis, MN 55403, USA"
+      }
+    ],
+    "duration": 0,
+    "start": "2025-03-27T00:00:00Z",
+    "start_local": "2025-03-26T19:00:00",
+    "end": "2025-03-27T00:00:00Z",
+    "end_local": "2025-03-26T19:00:00",
+    "predicted_end": "2025-03-27T04:10:00Z",
+    "predicted_end_local": "2025-03-26T23:10:00",
+    "updated": "2024-12-23T21:41:12Z",
+    "first_seen": "2024-12-11T20:47:36Z",
+    "timezone": "America/Chicago",
+    "location": [
+      -93.2754715,
+      44.9784348
+    ]
+   
+  },
+  {
+    "relevance": 0,
+    "id": "AKiz4B9ranFSJDGTEu",
+    "title": "They Might Be Giants",
+    "alternate_titles": [
+      "They Might Be Giants at The Orange Peel"
+    ],
+    "description": "Sourced from predicthq.com",
+    "category": "concerts",
+    "labels": [
+      "concert",
+      "music"
+    ],
+    "rank": 28,
+    "local_rank": 55,
+    "phq_attendance": 84,
+    "entities": [
+      {
+        "entity_id": "3BZnBt9jBN9n6nra6Lis454",
+        "name": "The Orange Peel - Pulp",
+        "type": "venue",
+        "formatted_address": "101 Biltmore Ave, Asheville, NC 28801, USA"
+      },
+      {
+        "entity_id": "gpFx7pPwbMh-cLGHKF0wgA",
+        "name": "They Might Be Giants at The Orange Peel - Pulp",
+        "type": "event-group",
+        "category": "concerts",
+        "labels": [
+          "concert",
+          "residency"
+        ]
+      }
+    ],
+    "duration": 0,
+    "start": "2025-03-27T00:00:00Z",
+    "start_local": "2025-03-26T20:00:00",
+    "end": "2025-03-27T00:00:00Z",
+    "end_local": "2025-03-26T20:00:00",
+    "predicted_end": "2025-03-27T04:10:00Z",
+    "predicted_end_local": "2025-03-27T00:10:00",
+    "updated": "2024-12-27T18:27:23Z",
+    "first_seen": "2024-10-21T18:54:19Z",
+    "timezone": "America/New_York",
+    "location": [
+      -82.5510137,
+      35.5914061
+    ]
+    
+  },
+  {
+    "relevance": 0,
+    "id": "ATquKjLcT2Na5LYQxb",
+    "title": "Casey Davis Jones and CASEY JONES AND FRIENDS",
+    "description": "Sourced from predicthq.com",
+    "category": "community",
+    "labels": [
+      "concert",
+      "music"
+    ],
+    "rank": 30,
+    "local_rank": 45,
+    "phq_attendance": 100,
+    "entities": [
+      {
+        "entity_id": "36kwfP5YGFhkJiw8XDpiCtm",
+        "name": "The Warehouse Restaurant",
+        "type": "venue",
+        "formatted_address": "4499 Admiralty Way, Marina Del Rey, CA 90292, USA"
+      }
+    ],
+    "duration": 0,
+    "start": "2025-03-27T00:00:00Z",
+    "start_local": "2025-03-26T17:00:00",
+    "end": "2025-03-27T00:00:00Z",
+    "end_local": "2025-03-26T17:00:00",
+    "updated": "2024-12-08T02:17:53Z",
+    "first_seen": "2024-12-08T01:57:58Z",
+    "timezone": "America/Los_Angeles",
+    "location": [
+      -118.4444643,
+      33.9829004
+    ]
+   
+  },
+  {
+    "relevance": 0,
+    "id": "AZBebXy8U6D7RdZuHE",
+    "title": "Keith Harkin",
+    "description": "Sourced from predicthq.com",
+    "category": "concerts",
+    "labels": [
+      "concert",
+      "music"
+    ],
+    "rank": 10,
+    "local_rank": 31,
+    "phq_attendance": 10,
+    "entities": [
+      {
+        "entity_id": "WZ6vymJZJkFCGz95KmxMi9",
+        "name": "The Pour House Music Hall",
+        "type": "venue",
+        "formatted_address": "224 S Blount St, Raleigh, NC 27601, USA"
+      }
+    ],
+    "duration": 0,
+    "start": "2025-03-27T00:00:00Z",
+    "start_local": "2025-03-26T20:00:00",
+    "end": "2025-03-27T00:00:00Z",
+    "end_local": "2025-03-26T20:00:00",
+    "predicted_end": "2025-03-27T04:10:00Z",
+    "predicted_end_local": "2025-03-27T00:10:00",
+    "updated": "2024-12-08T01:18:16Z",
+    "first_seen": "2024-11-28T00:24:11Z",
+    "timezone": "America/New_York",
+    "location": [
+      -78.636806,
+      35.77717
+    ]
+   
+  },
+  {
+    "relevance": 0,
+    "id": "AdbmRqZ3NFadWxZ9vK",
+    "title": "Pom Pom Squad",
+    "alternate_titles": [
+      "Caroline Kingsbury and Pom Pom Squad",
+      "Caroline Kingsbury at Siberia"
+    ],
+    "description": "Sourced from predicthq.com",
+    "category": "concerts",
+    "labels": [
+      "concert",
+      "music"
+    ],
+    "rank": 29,
+    "local_rank": 49,
+    "phq_attendance": 88,
+    "entities": [
+      {
+        "entity_id": "brJzMgK8HBbU9STr4vXgau",
+        "name": "Siberia",
+        "type": "venue",
+        "formatted_address": "2227 St Claude Ave, New Orleans, LA 70117, USA"
+      }
+    ],
+    "duration": 0,
+    "start": "2025-03-27T00:00:00Z",
+    "start_local": "2025-03-26T19:00:00",
+    "end": "2025-03-27T00:00:00Z",
+    "end_local": "2025-03-26T19:00:00",
+    "predicted_end": "2025-03-27T04:10:00Z",
+    "predicted_end_local": "2025-03-26T23:10:00",
+    "updated": "2024-12-24T08:44:16Z",
+    "first_seen": "2024-09-18T01:19:32Z",
+    "timezone": "America/Chicago",
+    "location": [
+      -90.0559176,
+      29.9690085
+    ]
+    
+  },
+  {
+    "relevance": 0,
+    "id": "ArLCoVwKx8m4dTsVv5",
+    "title": "Chloé Arnold's Syncopated Ladies LIVE!",
+    "alternate_titles": [
+      "Chloé Arnold’s Syncopated Ladies LIVE! Masterclass"
+    ],
+    "description": "Sourced from predicthq.com",
+    "category": "concerts",
+    "labels": [
+      "concert",
+      "music"
+    ],
+    "rank": 51,
+    "local_rank": 74,
+    "phq_attendance": 1094,
+    "entities": [
+      {
+        "entity_id": "G8pWn7B7dUWMWWSahFfGVZ",
+        "name": "Bama Theatre",
+        "type": "venue",
+        "formatted_address": "600 Greensboro Ave, Tuscaloosa, AL 35401, USA"
+      }
+    ],
+    "duration": 0,
+    "start": "2025-03-27T00:00:00Z",
+    "start_local": "2025-03-26T19:00:00",
+    "end": "2025-03-27T00:00:00Z",
+    "end_local": "2025-03-26T19:00:00",
+    "updated": "2024-12-01T04:31:50Z",
+    "first_seen": "2024-11-24T03:33:19Z",
+    "timezone": "America/Chicago",
+    "location": [
+      -87.568186,
+      33.208439
+    ]
+   
+  },
+  {
+    "relevance": 0,
+    "id": "BCtoRUesfxbigUSPqn",
+    "title": "Sauk Centre Public Schools - Spring Break",
+    "description": "Sourced from predicthq.com",
+    "category": "school-holidays",
+    "labels": [
+      "holiday",
+      "school",
+      "spring-holiday"
+    ],
+    "rank": 53,
+    "local_rank": 63,
+    "phq_attendance": 1367,
+    "entities": [],
+    "duration": 345599,
+    "start": "2025-03-27T00:00:00Z",
+    "start_local": "2025-03-27T00:00:00",
+    "end": "2025-03-30T23:59:59Z",
+    "end_local": "2025-03-30T23:59:59",
+    "updated": "2024-07-24T23:51:47Z",
+    "first_seen": "2024-04-02T14:30:31Z",
+    "timezone": null,
+    "location": [
+      -94.9909809051,
+      45.7314885725
+    ]
+    
+  },
+  {
+    "relevance": 0,
+    "id": "BKxogrqY6Nm9S6Yc3y",
+    "title": "World Ballet Company: The Great Gatsby",
+    "alternate_titles": [
+      "World Ballet Company presents The Great Gatsby Ballet"
+    ],
+    "description": "Sourced from predicthq.com - Something Great is coming to Alexandria this Spring! Join us for the World Premiere of The Great Gatsby Ballet!",
+    "category": "performing-arts",
+    "labels": [
+      "concert",
+      "music",
+      "performing-arts"
+    ],
+    "rank": 39,
+    "local_rank": 67,
+    "phq_attendance": 290,
+    "entities": [],
+    "duration": 7200,
+    "start": "2025-03-27T00:00:00Z",
+    "start_local": "2025-03-26T19:00:00",
+    "end": "2025-03-27T02:00:00Z",
+    "end_local": "2025-03-26T21:00:00",
+    "updated": "2024-12-11T19:23:26Z",
+    "first_seen": "2024-10-03T04:17:44Z",
+    "timezone": "America/Chicago",
+    "location": [
+      -92.44344869999999,
+      31.3098536
+    ]
+   
+  },
+  {
+    "relevance": 0,
+    "id": "BLdKnM8gSDqoWmXbPt",
+    "title": "Viroqua Area School District - Spring Break",
+    "description": "Sourced from predicthq.com",
+    "category": "school-holidays",
+    "labels": [
+      "holiday",
+      "school",
+      "spring-holiday"
+    ],
+    "rank": 54,
+    "local_rank": 68,
+    "phq_attendance": 1608,
+    "entities": [],
+    "duration": 431999,
+    "start": "2025-03-27T00:00:00Z",
+    "start_local": "2025-03-27T00:00:00",
+    "end": "2025-03-31T23:59:59Z",
+    "end_local": "2025-03-31T23:59:59",
+    "updated": "2024-07-24T23:51:57Z",
+    "first_seen": "2024-06-25T13:21:33Z",
+    "timezone": null,
+    "location": [
+      -90.9473003669,
+      43.5375896256
+    ]
+   
+  },
+  {
+    "relevance": 0,
+    "id": "BLx3knMgw4EGm7nuGf",
+    "title": "Spit Bull",
+    "description": "Sourced from predicthq.com",
+    "category": "concerts",
+    "labels": [
+      "concert",
+      "music"
+    ],
+    "rank": 38,
+    "local_rank": 60,
+    "phq_attendance": 246,
+    "entities": [
+      {
+        "entity_id": "DTBGS9cK9yeuiQyTKFtbsu",
+        "name": "The Rusty Nail",
+        "type": "venue",
+        "formatted_address": "112 Sibley Ave, Ardmore, PA 19003, USA"
+      }
+    ],
+    "duration": 0,
+    "start": "2025-03-27T00:00:00Z",
+    "start_local": "2025-03-26T20:00:00",
+    "end": "2025-03-27T00:00:00Z",
+    "end_local": "2025-03-26T20:00:00",
+    "predicted_end": "2025-03-27T04:10:00Z",
+    "predicted_end_local": "2025-03-27T00:10:00",
+    "updated": "2024-12-11T20:00:06Z",
+    "first_seen": "2024-12-01T02:28:40Z",
+    "timezone": "America/New_York",
+    "location": [
+      -75.2858353,
+      40.0066681
+    ]
+   
+  },
+  {
+    "relevance": 0,
+    "id": "BPqdfVkb4GFrkouxYc",
+    "title": "Mark Winters",
+    "description": "Sourced from predicthq.com",
+    "category": "community",
+    "labels": [
+      "concert",
+      "music"
+    ],
+    "rank": 42,
+    "local_rank": 63,
+    "phq_attendance": 400,
+    "entities": [
+      {
+        "entity_id": "32ZJ8riL4x5u9BZN66yrG3N",
+        "name": "Fitzgerald's Bar & Live Music",
+        "type": "venue",
+        "formatted_address": "437 McCarty Rd #101, San Antonio, TX 78216, USA"
+      }
+    ],
+    "duration": 0,
+    "start": "2025-03-27T00:00:00Z",
+    "start_local": "2025-03-26T19:00:00",
+    "end": "2025-03-27T00:00:00Z",
+    "end_local": "2025-03-26T19:00:00",
+    "updated": "2024-08-09T02:15:53Z",
+    "first_seen": "2024-08-09T02:15:32Z",
+    "timezone": "America/Chicago",
+    "location": [
+      -98.499276,
+      29.529271
+    ]
+    
+  },
+  {
+    "relevance": 0,
+    "id": "BQ5nGC5zWYWSw9himH",
+    "title": "Explosions in the Sky",
+    "alternate_titles": [
+      "Explosions In The Sky at Jannus Live"
+    ],
+    "description": "Sourced from predicthq.com",
+    "category": "concerts",
+    "labels": [
+      "concert",
+      "music"
+    ],
+    "rank": 55,
+    "local_rank": 75,
+    "phq_attendance": 1819,
+    "entities": [
+      {
+        "entity_id": "nS2ysCH7WBjW8Lx9qRbxk",
+        "name": "Jannus Live",
+        "type": "venue",
+        "formatted_address": "200 1st Ave N STE 206, St. Petersburg, FL 33701, USA"
+      }
+    ],
+    "duration": 0,
+    "start": "2025-03-27T00:00:00Z",
+    "start_local": "2025-03-26T20:00:00",
+    "end": "2025-03-27T00:00:00Z",
+    "end_local": "2025-03-26T20:00:00",
+    "predicted_end": "2025-03-27T04:10:00Z",
+    "predicted_end_local": "2025-03-27T00:10:00",
+    "updated": "2024-12-27T18:27:55Z",
+    "first_seen": "2024-10-02T18:58:55Z",
+    "timezone": "America/New_York",
+    "location": [
+      -82.6358439,
+      27.7719012
+    ]
+    
+  },
+  {
+    "relevance": 0,
+    "id": "BVMUitmXWxkQSPiKBZ",
+    "title": "Sunset Boulevard",
+    "description": "Sourced from predicthq.com",
+    "category": "performing-arts",
+    "labels": [
+      "entertainment",
+      "performing-arts"
+    ],
+    "rank": 47,
+    "local_rank": 49,
+    "phq_attendance": 728,
+    "entities": [
+      {
+        "entity_id": "dvgvgDfTryhRUfEnSKvV2b",
+        "name": "St James Theatre",
+        "type": "venue",
+        "formatted_address": "246 West 44th Street\nNew York, NY 10036\nUnited States of America"
+      }
+    ],
+    "duration": 0,
+    "start": "2025-03-27T00:00:00Z",
+    "start_local": "2025-03-26T20:00:00",
+    "end": "2025-03-27T00:00:00Z",
+    "end_local": "2025-03-26T20:00:00",
+    "predicted_end": "2025-03-27T01:50:00Z",
+    "predicted_end_local": "2025-03-26T21:50:00",
+    "updated": "2024-12-15T00:46:12Z",
+    "first_seen": "2024-04-11T00:42:51Z",
+    "timezone": "America/New_York",
+    "location": [
+      -73.9881401,
+      40.7580099
+    ]
+   
+  },
+  {
+    "relevance": 0,
+    "id": "BYzjZScoNE4gzogsHm",
+    "title": "Bedouin Soundclash",
+    "alternate_titles": [
+      "Bedouin Soundclash - 20 Years of Sounding A Mosaic",
+      "Bedouin Soundclash at Le Studio TD"
+    ],
+    "description": "Sourced from predicthq.com",
+    "category": "concerts",
+    "labels": [
+      "concert",
+      "music"
+    ],
+    "rank": 40,
+    "local_rank": 49,
+    "phq_attendance": 313,
+    "entities": [
+      {
+        "entity_id": "AJcGiv2puuR93kCyRQ4d8R",
+        "name": "L'Astral",
+        "type": "venue",
+        "formatted_address": "305 Rue Sainte-Catherine Ouest, Montréal, H2X 3X5, Canada"
+      }
+    ],
+    "duration": 0,
+    "start": "2025-03-27T00:00:00Z",
+    "start_local": "2025-03-26T20:00:00",
+    "end": "2025-03-27T00:00:00Z",
+    "end_local": "2025-03-26T20:00:00",
+    "predicted_end": "2025-03-27T03:40:00Z",
+    "predicted_end_local": "2025-03-26T23:40:00",
+    "updated": "2024-12-24T09:04:19Z",
+    "first_seen": "2024-09-24T20:55:14Z",
+    "timezone": "America/Toronto",
+    "location": [
+      -73.5668181,
+      45.5067299
+    ]
+   
+  },
+  {
+    "relevance": 0,
+    "id": "BnYYCQKwim548hGeqb",
+    "title": "MSSV, Mike Watt, and Mike Baggetta",
+    "description": "Sourced from predicthq.com",
+    "category": "concerts",
+    "labels": [
+      "concert",
+      "music"
+    ],
+    "rank": 50,
+    "local_rank": 76,
+    "phq_attendance": 971,
+    "entities": [
+      {
+        "entity_id": "3BZCAwCmzEHiw8zM6TAF6z5",
+        "name": "The End of All Music",
+        "type": "venue",
+        "formatted_address": "3011 N State St, Jackson, MS 39216, USA"
+      }
+    ],
+    "duration": 0,
+    "start": "2025-03-27T00:00:00Z",
+    "start_local": "2025-03-26T19:00:00",
+    "end": "2025-03-27T00:00:00Z",
+    "end_local": "2025-03-26T19:00:00",
+    "predicted_end": "2025-03-27T04:10:00Z",
+    "predicted_end_local": "2025-03-26T23:10:00",
+    "updated": "2024-12-26T00:52:28Z",
+    "first_seen": "2024-12-16T00:38:25Z",
+    "timezone": "America/Chicago",
+    "location": [
+      -90.17688,
+      32.3358
+    ]
+   
+  },
+  {
+    "relevance": 0,
+    "id": "BtpgkWodnB6mFTmqYN",
+    "title": "Grandview School District - Spring Break",
+    "description": "Sourced from predicthq.com",
+    "category": "school-holidays",
+    "labels": [
+      "holiday",
+      "school",
+      "spring-holiday"
+    ],
+    "rank": 61,
+    "local_rank": 100,
+    "phq_attendance": 3732,
+    "entities": [],
+    "duration": 950399,
+    "start": "2025-03-27T00:00:00Z",
+    "start_local": "2025-03-27T00:00:00",
+    "end": "2025-04-06T23:59:59Z",
+    "end_local": "2025-04-06T23:59:59",
+    "updated": "2024-08-07T09:47:06Z",
+    "first_seen": "2024-04-30T13:18:27Z",
+    "timezone": null,
+    "location": [
+      -119.9183647324,
+      46.2617544347
+    ]
+   
+  },
+  {
+    "relevance": 0,
+    "id": "BxFBmrpj8tiLGAcQVG",
+    "title": "Two Trains Running by August Wilson",
+    "description": "Sourced from predicthq.com",
+    "category": "performing-arts",
+    "labels": [
+      "entertainment",
+      "music",
+      "performing-arts"
+    ],
+    "rank": 0,
+    "local_rank": 0,
+    "phq_attendance": null,
+    "entities": [],
+    "duration": 0,
+    "start": "2025-03-27T00:00:00Z",
+    "start_local": "2025-03-26T19:00:00",
+    "end": "2025-03-27T00:00:00Z",
+    "end_local": "2025-03-26T19:00:00",
+    "updated": "2024-11-17T05:43:29Z",
+    "first_seen": "2024-11-17T04:38:34Z",
+    "timezone": "America/Chicago",
+    "location": [
+      -90.3662,
+      40.94681
+    ]
+   
+  },
+  {
+    "relevance": 0,
+    "id": "CAfYgF9wXj2zhQpp6B",
+    "title": "Anohni",
+    "alternate_titles": [
+      "ANOHNI and the Johnsons: It's Time To Feel What's Really Happening",
+      "ANOHNI at Lincoln Theatre",
+      "ANOHNI in Washington"
+    ],
+    "description": "Sourced from predicthq.com",
+    "category": "concerts",
+    "labels": [
+      "concert",
+      "music"
+    ],
+    "rank": 52,
+    "local_rank": 59,
+    "phq_attendance": 1272,
+    "entities": [
+      {
+        "entity_id": "RGqQs3YDjZFRuTBkQ6Zhm4",
+        "name": "Lincoln Theatre",
+        "type": "venue",
+        "formatted_address": "1215 U St NW, Washington, DC 20009, USA"
+      }
+    ],
+    "duration": 0,
+    "start": "2025-03-27T00:00:00Z",
+    "start_local": "2025-03-26T20:00:00",
+    "end": "2025-03-27T00:00:00Z",
+    "end_local": "2025-03-26T20:00:00",
+    "predicted_end": "2025-03-27T06:40:00Z",
+    "predicted_end_local": "2025-03-27T02:40:00",
+    "updated": "2024-12-27T18:31:17Z",
+    "first_seen": "2024-12-18T00:16:01Z",
+    "timezone": "America/New_York",
+    "location": [
+      -77.0289382,
+      38.9172927
+    ]
+   
+  },
+  {
+    "relevance": 0,
+    "id": "CBs9LvxH5kWWDcNyfL",
+    "title": "Tri-City United Schools - Spring Break",
+    "description": "Sourced from predicthq.com",
+    "category": "school-holidays",
+    "labels": [
+      "holiday",
+      "school",
+      "spring-holiday"
+    ],
+    "rank": 58,
+    "local_rank": 69,
+    "phq_attendance": 2471,
+    "entities": [],
+    "duration": 431999,
+    "start": "2025-03-27T00:00:00Z",
+    "start_local": "2025-03-27T00:00:00",
+    "end": "2025-03-31T23:59:59Z",
+    "end_local": "2025-03-31T23:59:59",
+    "updated": "2024-07-25T01:01:35Z",
+    "first_seen": "2024-04-02T14:40:42Z",
+    "timezone": null,
+    "location": [
+      -93.6091338909,
+      44.3998358658
+    ]
+   
+  },
+  {
+    "relevance": 0,
+    "id": "CDLSM5QUEjup6Qgzq5",
+    "title": "Westwood Community School District - Spring Break",
+    "description": "Sourced from predicthq.com",
+    "category": "school-holidays",
+    "labels": [
+      "holiday",
+      "school",
+      "spring-holiday"
+    ],
+    "rank": 45,
+    "local_rank": 68,
+    "phq_attendance": 564,
+    "entities": [],
+    "duration": 345599,
+    "start": "2025-03-27T00:00:00Z",
+    "start_local": "2025-03-27T00:00:00",
+    "end": "2025-03-30T23:59:59Z",
+    "end_local": "2025-03-30T23:59:59",
+    "updated": "2024-07-30T13:39:14Z",
+    "first_seen": "2024-07-30T13:38:37Z",
+    "timezone": null,
+    "location": [
+      -96.1608936946,
+      42.2514203416
+    ]
+   
+  },
+  {
+    "relevance": 0,
+    "id": "CJ59zjY89EVR5Jfg8K",
+    "title": "Sugar Sammy",
+    "alternate_titles": [
+      "SUGAR SAMMY - MONTRÉAL - YOU'RE GONNA RIRE 2"
+    ],
+    "description": "Sourced from predicthq.com",
+    "category": "concerts",
+    "labels": [
+      "concert",
+      "music"
+    ],
+    "rank": 39,
+    "local_rank": 48,
+    "phq_attendance": 280,
+    "entities": [
+      {
+        "entity_id": "kKgz6XpCthKmyTu4XbjZ3r",
+        "name": "Salle Pierre-Mercure",
+        "type": "venue",
+        "formatted_address": "300, boul de Maisonneuve Est\nMontréal QC H2X 3X6\nCanada"
+      },
+      {
+        "entity_id": "0wo0GoPSfsllHPPnJCixgA",
+        "name": "Sugar Sammy at Salle Pierre-Mercure",
+        "type": "event-group",
+        "category": "concerts",
+        "labels": [
+          "concert",
+          "residency"
+        ]
+      }
+    ],
+    "duration": 0,
+    "start": "2025-03-27T00:00:00Z",
+    "start_local": "2025-03-26T20:00:00",
+    "end": "2025-03-27T00:00:00Z",
+    "end_local": "2025-03-26T20:00:00",
+    "predicted_end": "2025-03-27T03:40:00Z",
+    "predicted_end_local": "2025-03-26T23:40:00",
+    "updated": "2024-12-25T09:40:38Z",
+    "first_seen": "2024-11-10T08:04:17Z",
+    "timezone": "America/Toronto",
+    "location": [
+      -73.5623268119,
+      45.5133652755
+    ]
+   
+  },
+  {
+    "relevance": 0,
+    "id": "CZLbzHgWrKCndsJ8xx",
+    "title": "Nazareth Independent School District - Spring Break",
+    "description": "Sourced from predicthq.com",
+    "category": "school-holidays",
+    "labels": [
+      "holiday",
+      "school",
+      "spring-holiday"
+    ],
+    "rank": 35,
+    "local_rank": 96,
+    "phq_attendance": 174,
+    "entities": [],
+    "duration": 345599,
+    "start": "2025-03-27T00:00:00Z",
+    "start_local": "2025-03-27T00:00:00",
+    "end": "2025-03-30T23:59:59Z",
+    "end_local": "2025-03-30T23:59:59",
+    "updated": "2024-08-07T10:54:32Z",
+    "first_seen": "2024-04-30T14:35:59Z",
+    "timezone": null,
+    "location": [
+      -102.0952392151,
+      34.5537228252
+    ]
+   
+  },
+  {
+    "relevance": 0,
+    "id": "ChAXAXSsSrn86Bhh7P",
+    "title": "Chicago Wolves vs Iowa Wild",
+    "description": "Sourced from predicthq.com",
+    "category": "sports",
+    "labels": [
+      "ice-hockey",
+      "sport"
+    ],
+    "rank": 63,
+    "local_rank": 82,
+    "phq_attendance": 4248,
+    "entities": [
+      {
+        "entity_id": "ZyTdH9YWjZ2vV8PnABPsBT",
+        "name": "Wells Fargo Arena",
+        "type": "venue",
+        "formatted_address": "233 Center St, Des Moines, IA 50309, USA"
+      }
+    ],
+    "duration": 0,
+    "start": "2025-03-27T00:00:00Z",
+    "start_local": "2025-03-26T19:00:00",
+    "end": "2025-03-27T00:00:00Z",
+    "end_local": "2025-03-26T19:00:00",
+    "predicted_end": "2025-03-27T02:40:00Z",
+    "predicted_end_local": "2025-03-26T21:40:00",
+    "updated": "2024-12-27T18:28:02Z",
+    "first_seen": "2024-07-12T01:12:26Z",
+    "timezone": "America/Chicago",
+    "location": [
+      -93.6210651,
+      41.59266229999999
+    ]
+   
+  },
+  {
+    "relevance": 0,
+    "id": "ChuuF7nnvB4eejwurV",
+    "title": "Billy Joel Legends Live! The Lords of 52nd Street",
+    "description": "Sourced from predicthq.com",
+    "category": "concerts",
+    "labels": [
+      "concert",
+      "music"
+    ],
+    "rank": 55,
+    "local_rank": 71,
+    "phq_attendance": 1881,
+    "entities": [
+      {
+        "entity_id": "39K7ELgtVxTXGg9AgPccAmZ",
+        "name": "Florida Theatre",
+        "type": "venue",
+        "formatted_address": "128 E Forsyth St #300, Jacksonville, FL 32202, USA"
+      }
+    ],
+    "duration": 0,
+    "start": "2025-03-27T00:00:00Z",
+    "start_local": "2025-03-26T20:00:00",
+    "end": "2025-03-27T00:00:00Z",
+    "end_local": "2025-03-26T20:00:00",
+    "updated": "2024-11-02T11:33:29Z",
+    "first_seen": "2024-09-01T03:50:03Z",
+    "timezone": "America/New_York",
+    "location": [
+      -81.655648,
+      30.3263652
+    ]
+   
+  },
+  {
+    "relevance": 0,
+    "id": "CiinHJQW93KaBkK49G",
+    "title": "Last Dinosaurs",
+    "alternate_titles": [
+      "Last Dinosaurs at The Social"
+    ],
+    "description": "Sourced from predicthq.com",
+    "category": "concerts",
+    "labels": [
+      "concert",
+      "music"
+    ],
+    "rank": 47,
+    "local_rank": 64,
+    "phq_attendance": 745,
+    "entities": [
+      {
+        "entity_id": "UB9YpLQn7tv29PcZWJQT7r",
+        "name": "The Social - Orlando",
+        "type": "venue",
+        "formatted_address": "54 N Orange Ave, Orlando, FL 32801, USA"
+      }
+    ],
+    "duration": 0,
+    "start": "2025-03-27T00:00:00Z",
+    "start_local": "2025-03-26T20:00:00",
+    "end": "2025-03-27T00:00:00Z",
+    "end_local": "2025-03-26T20:00:00",
+    "predicted_end": "2025-03-27T04:10:00Z",
+    "predicted_end_local": "2025-03-27T00:10:00",
+    "updated": "2024-12-24T09:08:56Z",
+    "first_seen": "2024-10-17T00:53:57Z",
+    "timezone": "America/New_York",
+    "location": [
+      -81.3792,
+      28.5431
+    ]
+    
+  },
+  {
+    "relevance": 0,
+    "id": "CqDfuyqBUNzYbeVBro",
+    "title": "LAURIE'S MINI WATERCOLOR WORKSHOP 6-Roosters & chicks;WED,6-8:30PM, MAR.26",
+    "description": "Sourced from predicthq.com",
+    "category": "community",
+    "labels": [
+      "community",
+      "workshop"
+    ],
+    "rank": 30,
+    "local_rank": 52,
+    "phq_attendance": 100,
+    "entities": [],
+    "duration": 9000,
+    "start": "2025-03-27T00:00:00Z",
+    "start_local": "2025-03-26T18:00:00",
+    "end": "2025-03-27T02:30:00Z",
+    "end_local": "2025-03-26T20:30:00",
+    "updated": "2024-12-01T03:38:04Z",
+    "first_seen": "2024-12-01T03:36:08Z",
+    "timezone": "America/Denver",
+    "location": [
+      -105.09068,
+      39.99495
+    ]
+    
+  },
+  {
+    "relevance": 0,
+    "id": "D2UJSHj8VtGNm4Jxqa",
+    "title": "UnCovered! Burlesque Karaoke",
+    "description": "Sourced from predicthq.com - Burlesque karaoke night!",
+    "category": "performing-arts",
+    "labels": [
+      "concert",
+      "music",
+      "performing-arts"
+    ],
+    "rank": 33,
+    "local_rank": 54,
+    "phq_attendance": 145,
+    "entities": [],
+    "duration": 10800,
+    "start": "2025-03-27T00:00:00Z",
+    "start_local": "2025-03-26T20:00:00",
+    "end": "2025-03-27T03:00:00Z",
+    "end_local": "2025-03-26T23:00:00",
+    "updated": "2024-12-26T19:53:09Z",
+    "first_seen": "2024-12-26T19:52:49Z",
+    "timezone": "America/Indiana/Indianapolis",
+    "location": [
+      -86.13917630000003,
+      39.7524789
+    ]
+   
+  },
+  {
+    "relevance": 0,
+    "id": "D9zrUqaXhVVTSgnYGS",
+    "title": "Sarah Shook & the Disarmers",
+    "alternate_titles": [
+      "Sarah Shook & The Disarmers at The Pyramid Scheme"
+    ],
+    "description": "Sourced from predicthq.com",
+    "category": "concerts",
+    "labels": [
+      "concert",
+      "music"
+    ],
+    "rank": 41,
+    "local_rank": 62,
+    "phq_attendance": 374,
+    "entities": [
+      {
+        "entity_id": "w4qdHpkb6WGTaSsLeKfk54",
+        "name": "The Pyramid Scheme",
+        "type": "venue",
+        "formatted_address": "68 Commerce Ave SW, Grand Rapids, MI 49503, USA"
+      }
+    ],
+    "duration": 0,
+    "start": "2025-03-27T00:00:00Z",
+    "start_local": "2025-03-26T20:00:00",
+    "end": "2025-03-27T00:00:00Z",
+    "end_local": "2025-03-26T20:00:00",
+    "predicted_end": "2025-03-27T03:10:00Z",
+    "predicted_end_local": "2025-03-26T23:10:00",
+    "updated": "2024-12-11T01:22:48Z",
+    "first_seen": "2024-11-26T00:18:42Z",
+    "timezone": "America/Detroit",
+    "location": [
+      -85.668812,
+      42.961269
+    ]
+    
+  },
+  {
+    "relevance": 0,
+    "id": "DAHqmRs5cheAPWQYAJ",
+    "title": "Armed Forces' Day",
+    "description": "Sourced from predicthq.com",
+    "category": "public-holidays",
+    "labels": [
+      "holiday",
+      "holiday-national"
+    ],
+    "rank": 90,
+    "local_rank": null,
+    "phq_attendance": null,
+    "entities": [
+      {
+        "entity_id": "qKLh4swCsKmszLjjzcgPdk",
+        "name": "Armed Forces' Day",
+        "type": "event-group",
+        "category": "public-holidays",
+        "labels": [
+          "event-group",
+          "holiday",
+          "holiday-national",
+          "recurring"
+        ]
+      }
+    ],
+    "duration": 86399,
+    "start": "2025-03-27T00:00:00Z",
+    "start_local": "2025-03-27T00:00:00",
+    "end": "2025-03-27T23:59:59Z",
+    "end_local": "2025-03-27T23:59:59",
+    "updated": "2024-07-31T00:23:21Z",
+    "first_seen": "2024-07-31T00:08:48Z",
+    "timezone": null,
+    "location": [
+      95.955974,
+      21.916221
+    ]
+   
+  },
+  {
+    "relevance": 0,
+    "id": "DC5PyyCsQ9gfB4kj9f",
+    "title": "Cambridge Wireless International Conference",
+    "alternate_titles": [
+      "CW's International Conference",
+      "CWIC"
+    ],
+    "description": "Sourced from predicthq.com",
+    "category": "conferences",
+    "labels": [
+      "conference"
+    ],
+    "rank": 42,
+    "local_rank": 70,
+    "phq_attendance": 400,
+    "entities": [
+      {
+        "entity_id": "UdKgefCKbFvq5DFFNEJfSX",
+        "name": "Hinxton Hall Ltd",
+        "type": "venue",
+        "formatted_address": "Wellcome Genome Campus, Hinxton, Saffron Walden CB10 1RQ, UK"
+      },
+      {
+        "entity_id": "PSABjVkdRF7LTt7FRKuaQF",
+        "name": "Cambridge Wireless International Conference",
+        "type": "event-group",
+        "formatted_address": "Wellcome Trust Genome Campus, Hinxton, Cambridge CB10 1RQ, UK",
+        "category": "conferences",
+        "labels": [
+          "conference",
+          "event-group"
+        ]
+      }
+    ],
+    "duration": 86399,
+    "start": "2025-03-27T00:00:00Z",
+    "start_local": "2025-03-27T00:00:00",
+    "end": "2025-03-27T23:59:59Z",
+    "end_local": "2025-03-27T23:59:59",
+    "updated": "2024-11-14T15:37:43Z",
+    "first_seen": "2024-10-30T16:23:42Z",
+    "timezone": "Europe/London",
+    "location": [
+      0.184794,
+      52.0814
+    ]
+   
+  }
+]
